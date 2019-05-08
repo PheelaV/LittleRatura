@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-permalink: /LittleRatura/:categories/:year/:month/:day/:title/
+# permalink: /LittleRatura/:categories/:year/:month/:day/:title/
