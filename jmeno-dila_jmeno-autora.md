@@ -1,30 +1,31 @@
 ---
 title: titulek
-#nemenit layout
+# nemenit layout
 layout: template
 filename: jmeno-dila_jmeno-autora
 ---
 
-#NÁZEV DÍLA
+# NÁZEV DÍLA
 
-##ANALÝZA UMĚLECKÉHO TEXTU
+## ANALÝZA UMĚLECKÉHO TEXTU
 
-###I.ČÁST
+### I.ČÁST
 
-####ZASAZENÍ VÝŇATKU DO KONTEXTU DÍLA
+#### ZASAZENÍ VÝŇATKU DO KONTEXTU DÍLA
 
-####TÉMA A MOTIV
+#### TÉMA A MOTIV
 
 ####ČASOPROSTOR
 
-####KOMPOZIČNÍ VÝSTAVBA
+#### KOMPOZIČNÍ VÝSTAVBA
 
-####LITERÁRNÍ DRUH A ŽÁNR
+#### LITERÁRNÍ DRUH A ŽÁNR
 
-###II. ČÁST
-####VYPRAVĚČ/LYRICKÝ SUBJECT
+### II. ČÁST
 
-####POSTAVA/Y
+#### VYPRAVĚČ/LYRICKÝ SUBJECT
+
+#### POSTAVA/Y
 
 - Hlavní
   - Jmeno
@@ -32,9 +33,9 @@ filename: jmeno-dila_jmeno-autora
 - Vedlejší
   _ Jmeno
   _ Jmeno
-  ####VYPORÁVĚCÍ ZPŮSOBY
+  #### VYPORÁVĚCÍ ZPŮSOBY
 
-####Vyprávěcí způsoby
+#### Vyprávěcí způsoby
 
 - Polopřímá řeč
   - priklad
@@ -43,45 +44,46 @@ filename: jmeno-dila_jmeno-autora
 - Nevlastní přímá řeč
   - priklad
 
-####TYPY PROMLUV
-####VERŠOVÁ VÝSTAVBA
+#### TYPY PROMLUV
 
-###III. ČÁST
+#### VERŠOVÁ VÝSTAVBA
 
-####JAZYKOVÉ PROSTŘEDKY
+### III. ČÁST
 
-####TROPY A FIGURY A JEJICH FUNKCE VÝŇATKU
+#### JAZYKOVÉ PROSTŘEDKY
 
-####LITERÁRNÉHISTORICKÝ KONEXT
+#### TROPY A FIGURY A JEJICH FUNKCE VÝŇATKU
 
-####KONTEXT AUTOROVY TVORBY
+#### LITERÁRNÉHISTORICKÝ KONEXT
 
-####LITERÁRNÍ/OBECNĚ KULTURNÍ CONTEXT
+#### KONTEXT AUTOROVY TVORBY
 
-##ANALÝZA NEUMĚLECKÉHO TEXTU
+#### LITERÁRNÍ/OBECNĚ KULTURNÍ CONTEXT
 
-###I. ČÁST
+## ANALÝZA NEUMĚLECKÉHO TEXTU
 
-####SOUVISLOST MEZI VÝŇATKY
+### I. ČÁST
 
-####HLAVNÍ MYŠLENKA TEXTU
+#### SOUVISLOST MEZI VÝŇATKY
 
-####PODSTATNÉ A NEPODSTATNÉ INFORMACE
+#### HLAVNÍ MYŠLENKA TEXTU
 
-####RŮZNÉ ZPŮSOBY ČTENÍ A INTERPRETACE TEXTU
+#### PODSTATNÉ A NEPODSTATNÉ INFORMACE
 
-####DOMNĚNKY A FAKTA
+#### RŮZNÉ ZPŮSOBY ČTENÍ A INTERPRETACE TEXTU
 
-####KOMUNIKAČNÍ SITUACE (ÚČEL, ADRESÁT)
+#### DOMNĚNKY A FAKTA
 
-###II. ČÁST
+#### KOMUNIKAČNÍ SITUACE (ÚČEL, ADRESÁT)
 
-####FUNKČNÍ STYL
+### II. ČÁST
 
-####SLOHOVÝ POSTUP
+#### FUNKČNÍ STYL
 
-####SLOHOVÝ ÚTVAR
+#### SLOHOVÝ POSTUP
 
-####KOMPOZIČNÍ VÝSTAVBA VÝŇATKU
+#### SLOHOVÝ ÚTVAR
 
-####JAZYKOVÉ PROSTŘEDKY A JEJICH FUNKCE VE VÝŇATKU
+#### KOMPOZIČNÍ VÝSTAVBA VÝŇATKU
+
+#### JAZYKOVÉ PROSTŘEDKY A JEJICH FUNKCE VE VÝŇATKU
