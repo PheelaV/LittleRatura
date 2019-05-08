@@ -1,7 +1,7 @@
 ---
 title: PAGE TITLE HERE
 layout: template
-filename: index.html
+filename: index
 ---
 
 this is a index site

@@ -1,7 +1,7 @@
 ---
 title: PAGE TITLE HERE TEST
-layout: default
-filename: testpage.html
+layout: template
+filename: testpage
 ---
 
 ## Welcome to GitHub Pages
