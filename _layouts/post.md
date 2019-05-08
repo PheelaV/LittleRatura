@@ -23,7 +23,6 @@
   </head>
   <body>
 
-
     <header class="page-header" role="banner">
       <h1 class="project-name">
       {{ page.title | default: site.title | default: site.github.repository_name }}</h1>

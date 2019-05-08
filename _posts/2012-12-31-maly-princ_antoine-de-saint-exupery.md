@@ -3,8 +3,6 @@ title: Malý princ
 # nemenit layout
 layout: template
 filename: maly-princ_antoine-de-saint-exupery
-categories: [SV-20-21]
-tags: [de Saint-Exupery A]
 ---
 
 # Mmalý Princ | Antoine de Saint-Eexupéry
