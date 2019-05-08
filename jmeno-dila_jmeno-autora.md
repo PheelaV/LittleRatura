@@ -1,3 +1,10 @@
+---
+title: titulek
+#nemenit layout
+layout: template
+filename: jmeno-dila_jmeno-autora
+---
+
 #NÁZEV DÍLA
 
 ##ANALÝZA UMĚLECKÉHO TEXTU
