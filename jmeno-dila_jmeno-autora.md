@@ -34,6 +34,15 @@ filename: jmeno-dila_jmeno-autora
   _ Jmeno
   _ Jmeno
 
+1. Hlavni
+   1. Jmeno postavy
+   1. Jmeno postavy
+1. Vedlejší
+   1. Jmeno postavy
+   1. Jmeno postavy
+   1. Jmeno postavy
+   1. Jmeno postavy
+
 #### VYPORÁVĚCÍ ZPŮSOBY
 
 #### Vyprávěcí způsoby
