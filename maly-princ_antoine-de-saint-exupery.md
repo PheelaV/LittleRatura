@@ -5,7 +5,7 @@ layout: template
 filename: maly-princ_antoine-de-saint-exupery
 ---
 
-# Mmalý Princ |
+# Mmalý Princ | Antoine de Saint-Eexupéry
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
@@ -71,15 +71,21 @@ Vypravěčem je sám autor, na začátku a na konci probíhá v ich-formě, zbyt
 #### TYPY PROMLUV
 
 **Často přímá řeč**
-    - Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
+
+- Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
+
 **Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
-    - Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
+
+- Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
+
 **Vnitřní monology**
-Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ.
+-Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ.
+
 A **dialogy**, které vedou často k zamyšlení
-    - „Hvězdy jsou krásné, protože je na nich květina, kterou není vidět...“
-    - „Ano, jistě,“ řekl j sem a mlčky j sem pozoroval vlny v písku ve svitu měsíce.
-    - „Poušť je krásná...,“ dodal.
+
+- „Hvězdy jsou krásné, protože je na nich květina, kterou není vidět...“
+- „Ano, jistě,“ řekl j sem a mlčky j sem pozoroval vlny v písku ve svitu měsíce.
+- „Poušť je krásná...,“ dodal.
 
 #### VERŠOVÁ VÝSTAVBA
 
@@ -116,3 +122,20 @@ Politická situace – na kontinentu probíhá vlna revolucí, rozšiřování f
 Převažují realistické, často autobiografické prožitky hrůz z válečných bojišť. Zachycení psychických proměn hrdinů, vlastenecké prvky, sílící nenávist k jakýmkoli projevům války.
 Autoři podávají reálné, věcné a pravdivé zobrazení skutečnosti – jsou objektivní, realitu nijak nezkreslují.
 V dílech typizace = v dílech vystupují určité typy lidí.
+
+Do tohoto proudu spadá dále:
+Henri Barbusse (FR) - Oheň
+Romain Rolland (FR) - Petr a Lucie, Dobrý člověk ještě žije
+
+Zároveň jsou zde autoři tzv. ztracené generace
+= generačně blízká skupina amerických básníků a prozaiků, kteří začali tvořit ve 20. letech 20. století
+Myšlení prozaiků a básníků této skupiny bylo ovlivněno zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do obyčejného života.
+Základní téma literárních děl této generace je skepse, zklamání, rozpad lidských a sociálních hodnot a hledání východiska v útěku do přírody nebo kultury. Hlavními hrdiny bývají lidé ztracení v labyrintu světa, obvykle rozvrácené, silně citově založené osoby, které nemohou najít pevný bod ve svém životě.
+Pojem ztracená generace zavedla Gertruda Steinová.
+Další autoři:
+
+- Amerika: John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a lidech), Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ Bejnamina Buttona), **Ernest Hemingway** (Stařec a moře, Komu zvoní hrana, Sbohem armádo)
+- Francie: Romain Rolland, Henri Barbusse, Marcel Proust (Hledání ztraceného času)
+- Anglie: James Joyce (Odysseus, Dubliňané)
+- Německo: Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya, Bláznova moudrost), **Erich Maria Remarque** (Na západní frontě klid, Nebe nezná vyvolených)
+- ČR: **Franz Kafka** (Proces, Proměna, Venkovský Lékař)
