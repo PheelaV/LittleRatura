@@ -22,17 +22,29 @@
 <link rel="icon" href="../img/mysicka.svg">
   </head>
   <body>
-    <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">
+        {{ page.title | default: site.title | default: site.github.repository_name }}
+      </h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn btn-info">View on GitHub</a>
       {% endif %}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for page in site.pages %}
-    <a href={{ page.filename }} class="btn">{{ page.title }}</a>
-    {% endfor %}
+            <a href={{ page.filename }} class="dropdown-item">{{ page.title }}</a>
+          {% endfor %}
+          <!-- <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a> -->
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
