@@ -1,0 +1,146 @@
+---
+title: Malý princ
+# nemenit layout
+layout: template
+filename: maly-princ_antoine-de-saint-exupery
+---
+
+# Mmalý Princ |
+
+## ANALÝZA UMĚLECKÉHO TEXTU
+
+### I.ČÁST
+
+#### ZASAZENÍ VÝŇATKU DO KONTEXTU DÍLA
+
+#### TÉMA A MOTIV
+
+láska, přátelství, dětský svět, havárie, písek, nedostatek vody, závada na motoru, samota, kresby (hroznýš, beránek), nespokojenost s kresbami, zvědavost, podstatné a nepodstatné věci v životě, nedůvěra, lenost, pýcha, hvězdy, utěšování, poušť, špatné vlastnosti dospělých (lakota, alkoholismus,...), zamyšlení nad pravými hodnotami lidského života, cestování, letadlo, liška, růže, seznámení, vymetání sopek, planetky, životní moudrost, kresba, pravidla, zodpovědnost...
+
+#### ČASOPROSTOR
+
+Přesné období není uvedeno, děj se odehrává po dobu 8 dní, na jednotlivých planetkách, celkem je jich 7. Autor příběh vypráví po 6 letech od doby, kdy se princ vrátil na svou planetku.
+
+#### KOMPOZIČNÍ VÝSTAVBA
+
+Začátek a konec jsou psané chronologicky, vyprávění malého prince jsou psána retrospektivně – vzpomíná, vrací se do minulosti. 27 římsky očíslovaných, nepojmenovaných kapitol. Autor si knihu sám ilustroval. Na začátku je věnování jeho příteli Leónu Werthovi.
+
+#### LITERÁRNÍ DRUH A ŽÁNR
+
+Epika s lyrickými pasážemi, filozofická pohádka, próza
+
+### II. ČÁST
+
+#### VYPRAVĚČ/LYRICKÝ SUBJECT
+
+#### POSTAVA/Y
+
+- Hlavní
+  - Malý princ
+    - Má zlaté vlasy, velmi citlivý, vnímavý, bezelstný, nezkažený, mladý, zásadový, svědomitý, má rád západy Slunce, které se na jeho planetě střídají velmi rychle. Stále se na něco vyptává,vyžaduje odpovědi, avšak nikdy neodpoví na otázky cizí. Je zklamaný lidskými charaktery, hlavně nedostatkem fantazie dospělých, později nachází skutečný smysl života – liška.
+      Planeta B612 – domov.
+  - Pilot
+    - Vypravěč, autor díla, trochu samotářský, snílek. Ztroskotal na Sahaře, je zaměstnaný opravou letadla. Autobiografické rysy, dobře si pamatuje své dětství, nepochopený ze strany dospělých – hroznýš se slonem v břiše. Snaží se malému princi odpovídat na otázky, říká to, co si doopravdy myslí.
+  - Květina
+    - Marnivá, nafoukaná, plná pýchy, domýšlivá.
+- Vedlejší
+  - Král
+    - Pořád si potřebuje dokazovat svoji nadřazenost, panovačný – řídí své okolí neustálými rozkazy.
+  - Domýšlivec
+    - Je samolibý a slyší jen samou chválu na svoji osobu.
+  - Pijan
+    - Osamělý, utápí se v alkoholu, z čehož je nešťastný a proto pije dál. Jeho životem je pro něj alkohol.
+  - Businessman
+    - Je stále velmi zaneprázdněn, zakládá si na preciznosti a přesnosti, na nic nemá čas.
+    - Myslí si, že je všechno jeho.
+  - Lampář
+    - Pracovitý, ale smutný, věrný příkazu. Na malého prince udělal dojem svou službou pro druhé.
+  - Zeměpisec
+    - Sobecký, myslí si, že je nejdůležitější na světě.
+  - Liška
+    - Modrá, přátelská, pozitivně ovlivnila myšlení mladého prince, pomohla mu najít skutečný smysl života (láska, přátelství), poprosila malého prince, aby si ji ochočil.
+  - Had
+    - Jeho uštknutí navrací malého prince na jeho domovskou planetu.
+  - Výhybkář a obchodník s pilulkami na žízeň
+    - Reprezentují spěch a honbu za náhražkami – pro malého prince nesmyslné, zbytečné, bezcenné.
+
+#### VYPORÁVĚCÍ ZPŮSOBY
+
+Vypravěčem je sám autor, na začátku a na konci probíhá v ich-formě, zbytek je v er-formě (vyprávění malého prince)
+
+#### TYPY PROMLUV
+
+    **Často přímá řeč**
+    	- Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
+    **Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
+        - Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
+    **Vnitřní monology**
+    Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ.
+    A **dialogy**, které vedou často k zamyšlení
+        - „Hvězdy jsou krásné, protože je na nich květina, kterou není vidět...“
+        - „Ano, jistě,“ řekl j sem a mlčky j sem pozoroval vlny v písku ve svitu měsíce.
+        - „Poušť je krásná...,“ dodal.
+
+#### VERŠOVÁ VÝSTAVBA
+
+Dílo není veršováno
+
+### III. ČÁST
+
+#### JAZYKOVÉ PROSTŘEDKY
+
+#### TROPY A FIGURY A JEJICH FUNKCE VÝŇATKU
+
+#### LITERÁRNÉHISTORICKÝ KONEXT
+
+#### KONTEXT AUTOROVY TVORBY
+
+**Antoine de Saint-Exupéry** byl francouzský prozaik 20. století, publicista, letec na dálkových tratích a válečný pilot. Narodil se v Lyonu, pocházel z aristokratické rodiny. Přesné datum úmrtí není známo, pravděpodobně byl sestřelen během 2. světové války ve Středomoří. Od dětství projevoval literární a výtvarné nadání, také zájem o letectví. Nedokončil studium na Akademii výtvarných umění.
+
+Později složil zkoušku z civilního letectví, pracoval u různých leteckých společností, létal do Afriky i Ameriky. Přežil 2 havárie.
+
+Na začátku 2. světové války odešel do USA, kde se stal průzkumným letcem. Z letu nad Korsikou se nevrátil.
+
+Spisovatelské činnosti se věnoval od 20. let.
+
+Mezi jeho díla patří: - Kurýr na jih, - Noční let - Válečný pilot - letecké romány na pomezí reportáže a dokumentu. Zachycují osobní zážitky z vlastního ohrožení života. - Citadela – posmrtně vydaná esejistická kniha
+
+#### LITERÁRNÍ/OBECNĚ KULTURNÍ CONTEXT
+
+**Meziválečná literatura 1. polovina 20. století**
+
+1. světová válka způsobila v celé Evropě hluboký společenský i duchovní otřes. Výraznou stopu zanechala zákonitě i v literatuře. Zobrazování válečné tématiky si kladlo za cíl vylíčit válečné hrůzy a varovat před tím, aby se taková situace už nikdy neopakovala.
+   Politická situace – na kontinentu probíhá vlna revolucí, rozšiřování fašismu, souboj demokracie a totalitních režimů, světová hospodářská krize, mnoho lidí přichází o práci.
+
+**Autor spadá do tradičního proudu francouzského realismu**. 1. světová válka se výrazným způsobem odrazila v tvorbě světových autorů.
+Převažují realistické, často autobiografické prožitky hrůz z válečných bojišť. Zachycení psychických proměn hrdinů, vlastenecké prvky, sílící nenávist k jakýmkoli projevům války.
+Autoři podávají reálné, věcné a pravdivé zobrazení skutečnosti – jsou objektivní, realitu nijak nezkreslují.
+V dílech typizace = v dílech vystupují určité typy lidí.
+
+## ANALÝZA NEUMĚLECKÉHO TEXTU
+
+### I. ČÁST
+
+#### SOUVISLOST MEZI VÝŇATKY
+
+#### HLAVNÍ MYŠLENKA TEXTU
+
+#### PODSTATNÉ A NEPODSTATNÉ INFORMACE
+
+#### RŮZNÉ ZPŮSOBY ČTENÍ A INTERPRETACE TEXTU
+
+#### DOMNĚNKY A FAKTA
+
+#### KOMUNIKAČNÍ SITUACE (ÚČEL, ADRESÁT)
+
+### II. ČÁST
+
+#### FUNKČNÍ STYL
+
+#### SLOHOVÝ POSTUP
+
+#### SLOHOVÝ ÚTVAR
+
+#### KOMPOZIČNÍ VÝSTAVBA VÝŇATKU
+
+#### JAZYKOVÉ PROSTŘEDKY A JEJICH FUNKCE VE VÝŇATKU
