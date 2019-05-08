@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
+title: LittleRatura
 layout: template
 filename: index
 ---
 
-this is a index site
+Tato jedoduchá stránka slouží pro sdílení zpracovaných literárních děl.

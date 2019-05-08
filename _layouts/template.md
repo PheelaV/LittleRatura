@@ -22,7 +22,7 @@
 
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -31,7 +31,7 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
           {% for page in site.pages %}
-    <a href={{ page.filename }}>{{ page.title }}</a>
+    <a href={{ page.filename }} class="btn">{{ page.title }}</a>
     {% endfor %}
       ## Hello IM FAMOUS
       {% if site.show_downloads %}
