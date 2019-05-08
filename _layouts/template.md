@@ -1,4 +1,4 @@
-<h1>Hello</h1>
+## Hello
 
 <nav>
     {% for page in site.pages %}
