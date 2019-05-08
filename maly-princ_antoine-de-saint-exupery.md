@@ -70,16 +70,16 @@ Vypravěčem je sám autor, na začátku a na konci probíhá v ich-formě, zbyt
 
 #### TYPY PROMLUV
 
-    **Často přímá řeč**
-    	- Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
-    **Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
-        - Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
-    **Vnitřní monology**
-    Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ.
-    A **dialogy**, které vedou často k zamyšlení
-        - „Hvězdy jsou krásné, protože je na nich květina, kterou není vidět...“
-        - „Ano, jistě,“ řekl j sem a mlčky j sem pozoroval vlny v písku ve svitu měsíce.
-        - „Poušť je krásná...,“ dodal.
+**Často přímá řeč**
+    - Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
+**Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
+    - Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
+**Vnitřní monology**
+Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ.
+A **dialogy**, které vedou často k zamyšlení
+    - „Hvězdy jsou krásné, protože je na nich květina, kterou není vidět...“
+    - „Ano, jistě,“ řekl j sem a mlčky j sem pozoroval vlny v písku ve svitu měsíce.
+    - „Poušť je krásná...,“ dodal.
 
 #### VERŠOVÁ VÝSTAVBA
 
@@ -109,38 +109,10 @@ Mezi jeho díla patří: - Kurýr na jih, - Noční let - Válečný pilot - let
 
 **Meziválečná literatura 1. polovina 20. století**
 
-1. světová válka způsobila v celé Evropě hluboký společenský i duchovní otřes. Výraznou stopu zanechala zákonitě i v literatuře. Zobrazování válečné tématiky si kladlo za cíl vylíčit válečné hrůzy a varovat před tím, aby se taková situace už nikdy neopakovala.
-   Politická situace – na kontinentu probíhá vlna revolucí, rozšiřování fašismu, souboj demokracie a totalitních režimů, světová hospodářská krize, mnoho lidí přichází o práci.
+\1. světová válka způsobila v celé Evropě hluboký společenský i duchovní otřes. Výraznou stopu zanechala zákonitě i v literatuře. Zobrazování válečné tématiky si kladlo za cíl vylíčit válečné hrůzy a varovat před tím, aby se taková situace už nikdy neopakovala.
+Politická situace – na kontinentu probíhá vlna revolucí, rozšiřování fašismu, souboj demokracie a totalitních režimů, světová hospodářská krize, mnoho lidí přichází o práci.
 
 **Autor spadá do tradičního proudu francouzského realismu**. 1. světová válka se výrazným způsobem odrazila v tvorbě světových autorů.
 Převažují realistické, často autobiografické prožitky hrůz z válečných bojišť. Zachycení psychických proměn hrdinů, vlastenecké prvky, sílící nenávist k jakýmkoli projevům války.
 Autoři podávají reálné, věcné a pravdivé zobrazení skutečnosti – jsou objektivní, realitu nijak nezkreslují.
 V dílech typizace = v dílech vystupují určité typy lidí.
-
-## ANALÝZA NEUMĚLECKÉHO TEXTU
-
-### I. ČÁST
-
-#### SOUVISLOST MEZI VÝŇATKY
-
-#### HLAVNÍ MYŠLENKA TEXTU
-
-#### PODSTATNÉ A NEPODSTATNÉ INFORMACE
-
-#### RŮZNÉ ZPŮSOBY ČTENÍ A INTERPRETACE TEXTU
-
-#### DOMNĚNKY A FAKTA
-
-#### KOMUNIKAČNÍ SITUACE (ÚČEL, ADRESÁT)
-
-### II. ČÁST
-
-#### FUNKČNÍ STYL
-
-#### SLOHOVÝ POSTUP
-
-#### SLOHOVÝ ÚTVAR
-
-#### KOMPOZIČNÍ VÝSTAVBA VÝŇATKU
-
-#### JAZYKOVÉ PROSTŘEDKY A JEJICH FUNKCE VE VÝŇATKU
