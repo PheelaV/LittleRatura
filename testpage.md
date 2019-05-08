@@ -1,6 +1,6 @@
 ---
 title: PAGE TITLE HERE TEST
-layout: template
+layout: default
 filename: testpage.html
 ---
 
