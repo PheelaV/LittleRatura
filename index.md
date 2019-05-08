@@ -4,6 +4,7 @@ layout: template
 filename: index
 ---
 
-## :fire:
+## Vítej
 
 Tato jedoduchá stránka slouží pro sdílení zpracovaných literárních děl.
+![My helpful screenshot](assets/img/mysicka.svg)
