@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE TEST
+title: Show Off
 layout: template
 filename: testpage
 ---
