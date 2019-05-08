@@ -15,7 +15,7 @@ filename: jmeno-dila_jmeno-autora
 
 #### TÉMA A MOTIV
 
-####ČASOPROSTOR
+#### ČASOPROSTOR
 
 #### KOMPOZIČNÍ VÝSTAVBA
 
@@ -33,7 +33,8 @@ filename: jmeno-dila_jmeno-autora
 - Vedlejší
   _ Jmeno
   _ Jmeno
-  #### VYPORÁVĚCÍ ZPŮSOBY
+
+#### VYPORÁVĚCÍ ZPŮSOBY
 
 #### Vyprávěcí způsoby
 
