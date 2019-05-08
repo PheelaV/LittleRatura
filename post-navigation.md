@@ -1,7 +1,7 @@
 ---
 title: LittleRatura
 layout: template
-filename: index
+filename: post-navigation
 ---
 
 # Knížky:

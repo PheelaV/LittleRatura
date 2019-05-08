@@ -3,8 +3,8 @@ title: titulek
 # nemenit layout
 layout: post
 filename: jmeno-dila_jmeno-autora
-categories: [blog, travel]
-tags: [hot, summer]
+categories: [SV-20-21]
+tags: [de Saint-Exupery A]
 ---
 
 # NÁZEV DÍLA

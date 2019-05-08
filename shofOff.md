@@ -1,7 +1,7 @@
 ---
 title: Show Off
 layout: template
-filename: testpage
+filename: shofOff
 ---
 
 ## Welcome to GitHub Pages
