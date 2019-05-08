@@ -1,5 +1,5 @@
 ---
-title: LittleRatura
+title: Úvod
 layout: template
 filename: index
 ---

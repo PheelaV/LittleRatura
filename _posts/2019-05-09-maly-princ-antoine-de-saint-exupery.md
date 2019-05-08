@@ -2,7 +2,7 @@
 title: Malý princ
 # nemenit layout
 layout: post
-filename: maly-princ_antoine-de-saint-exupery
+filename: maly-princ-antoine-de-saint-exupery
 categories: [SV-20-21]
 tags: [de Saint-Exupery A]
 ---

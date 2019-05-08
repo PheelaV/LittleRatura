@@ -1,8 +1,8 @@
 ---
-title: titulek
+title: priklad postu
 # nemenit layout
 layout: post
-filename: jmeno-dila_jmeno-autora
+filename: jmeno-dila-jmeno-autora
 categories: [SV-20-21]
 tags: [de Saint-Exupery A]
 ---
