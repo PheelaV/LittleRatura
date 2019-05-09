@@ -1,7 +1,5 @@
 docs_list_title: ACME Documentation
 docs:
-  # - title: LittleLatura
-  #   url: /LittleRatura/index.html
 
   - title: Knížky 📚
     url: /post-navigation.html
