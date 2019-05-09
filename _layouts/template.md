@@ -12,10 +12,10 @@
         {% for page in site.pages %}
             <a href=/LittleRatura/{{ page.filename }} class="btn">{{ page.title }}</a>
         {% endfor %}
-        {% if site.show_downloads %}
+        {%- comment -%} {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-        {% endif %}
+        {% endif %} {%- endcomment -%}
     </header>
 
     <main id="content" class="main-content" role="main">
