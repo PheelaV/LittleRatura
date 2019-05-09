@@ -14,7 +14,7 @@
                 <span>-</span>
                 {% endif %}
                 {% if page.next %}
-                <a href="/LittleRatura/{{ page.next.url }}">Dále: {{ page.netx.title }}</a>
+                <a href="/LittleRatura/{{ page.next.url }}">Dále: {{ page.next.title }}</a>
                 {% else %}
                 <span>-</span>
                 {% endif %}
