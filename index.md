@@ -1,7 +1,6 @@
 ---
 title: LittleRatura
 layout: template
-filename: index
 ---
 
 ## Vítej
