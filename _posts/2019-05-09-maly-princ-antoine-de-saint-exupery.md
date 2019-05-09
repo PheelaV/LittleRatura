@@ -13,17 +13,9 @@ Malý princ
 
 ### I.ČÁST
 
-#### ZASAZENÍ VÝŇATKU DO KONTEXTU DÍLA
-
 #### TÉMA A MOTIV
 
-láska, přátelství, dětský svět, havárie, písek, nedostatek vody, závada
-na motoru, samota, kresby (hroznýš, beránek), nespokojenost s kresbami,
-zvědavost, podstatné a nepodstatné věci v životě, nedůvěra, lenost,
-pýcha, hvězdy, utěšování, poušť, špatné vlastnosti dospělých (lakota,
-alkoholismus,...), zamyšlení nad pravými hodnotami lidského života,
-cestování, letadlo, liška, růže, seznámení, vymetání sopek, planetky,
-životní moudrost, kresba, pravidla, zodpovědnost...
+Láska, **síla přátelství**, střet dětského světa se světem dospělých, havárie, písek, kresby (hroznýš, beránek), nespokojenost s kresbami, zvědavost, podstatné a nepodstatné věci v životě, nedůvěra, lenost, pýcha, hvězdy, utěšování, **špatné vlastnosti dospělých** (lakota, alkoholismus,...), **zamyšlení nad pravými hodnotami lidského života**, seznámení, životní moudrost, pravidla, zodpovědnost...
 
 #### ČASOPROSTOR
 
@@ -33,14 +25,15 @@ letech od doby, kdy se princ vrátil na svou planetku.
 
 #### KOMPOZIČNÍ VÝSTAVBA
 
-Začátek a konec jsou psané chronologicky, vyprávění malého prince jsou
-psána retrospektivně – vzpomíná, vrací se do minulosti. 27 římsky
+Začátek a konec jsou psané **chronologicky**, vyprávění malého prince jsou
+psána **retrospektivně** – vzpomíná, vrací se do minulosti. 27 římsky
 očíslovaných, nepojmenovaných kapitol. Autor si knihu sám ilustroval.
 Na začátku je věnování jeho příteli Leónu Werthovi.
 
 #### LITERÁRNÍ DRUH A ŽÁNR
 
-Epika s lyrickými pasážemi, filozofická pohádka, próza
+Lit. druh -Epika(próza) s lyrickými pasážemi
+Lit žánr - Román, (filozofický, pohádkový příběh)
 
 ### II. ČÁST
 
@@ -48,7 +41,7 @@ Epika s lyrickými pasážemi, filozofická pohádka, próza
 
 #### POSTAVA/Y
 
-- Hlavní
+- **Hlavní**
 
 - Malý princ
 
@@ -72,7 +65,7 @@ Epika s lyrickými pasážemi, filozofická pohádka, próza
 
   - Marnivá, nafoukaná, plná pýchy, domýšlivá.
 
-- Vedlejší
+- **Vedlejší**
 
 - Král
 
@@ -128,8 +121,8 @@ zbytek je v er-formě (vyprávění malého prince)
 
 **Často přímá řeč**
 
-- Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný\! Je
-  tak slaboučká\! A tak naivní. Má jen čtyři maličké trny, aby ji
+- Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je
+  tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji
   chránily proti světu...“
 
 **Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
@@ -138,30 +131,32 @@ zbytek je v er-formě (vyprávění malého prince)
   kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc
   malá. Není tam místo pro dva...
 
-**Vnitřní monology** -Dospělí jsou hrozně zvláštní, pomyslel si cestou
-malý princ.
+**Vnitřní monology** -"Dospělí jsou hrozně zvláštní, pomyslel si cestou
+malý princ." Nebo když přemýšlí o své květině.
 
-A **dialogy**, které vedou často k zamyšlení
+**Dialogy**, které vedou často k zamyšlení
 
 - „Hvězdy jsou krásné, protože je na nich květina, kterou není
   vidět...“
 
-- „Ano, jistě,“ řekl j sem a mlčky j sem pozoroval vlny v písku ve
+- „Ano, jistě,“ řekl jsem a mlčky jsem pozoroval vlny v písku ve
   svitu měsíce.
 
 - „Poušť je krásná...,“ dodal.
-
-#### VERŠOVÁ VÝSTAVBA
-
-Dílo není veršováno
 
 ### III. ČÁST
 
 #### JAZYKOVÉ PROSTŘEDKY
 
+- spisovný jazyk
+- zdrobněliny
+- metafora (\* stará opuštěná skořápka)
+- přirovnání (\* klesl pomalu, jako padá strom)
+- personifikace (\* hvězdy se tiše smějí, studna zpívá, vítr spí)
+
 #### TROPY A FIGURY A JEJICH FUNKCE VÝŇATKU
 
-#### LITERÁRNÉHISTORICKÝ KONEXT
+## LITERÁRNÉHISTORICKÝ KONEXT
 
 #### KONTEXT AUTOROVY TVORBY
 
@@ -189,7 +184,7 @@ kniha
 
 **Meziválečná literatura 1. polovina 20. století**
 
-. světová válka způsobila v celé Evropě hluboký společenský i duchovní
+První světová válka způsobila v celé Evropě hluboký společenský i duchovní
 otřes. Výraznou stopu zanechala zákonitě i v literatuře. Zobrazování
 válečné tématiky si kladlo za cíl vylíčit válečné hrůzy a varovat před
 tím, aby se taková situace už nikdy neopakovala. Politická situace – na
@@ -208,30 +203,41 @@ dílech typizace = v dílech vystupují určité typy lidí.
 Do tohoto proudu spadá dále: Henri Barbusse (FR) - Oheň Romain Rolland
 (FR) - Petr a Lucie, Dobrý člověk ještě žije
 
-Zároveň jsou zde autoři tzv. ztracené generace = generačně blízká
-skupina amerických básníků a prozaiků, kteří začali tvořit ve 20. letech
+Zároveň jsou zde autoři tzv. **ztracené generace** (= generačně blízká
+skupina amerických básníků a prozaiků, kteří začali tvořit ve 20. letech)
 
-20. století Myšlení prozaiků a básníků této skupiny bylo ovlivněno
-    zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do
-    obyčejného života. Základní téma literárních děl této generace je
-    skepse, zklamání, rozpad lidských a sociálních hodnot a hledání
-    východiska v útěku do přírody nebo kultury. Hlavními hrdiny bývají lidé
-    ztracení v labyrintu světa, obvykle rozvrácené, silně citově založené
-    osoby, které nemohou najít pevný bod ve svém životě. Pojem ztracená
-    generace zavedla Gertruda Steinová. Další autoři:
+**20. století **Myšlení prozaiků a básníků této skupiny bylo ovlivněno
+zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do
+obyčejného života. Základní téma literárních děl této generace je
+skepse, zklamání, rozpad lidských a sociálních hodnot a hledání
+východiska v útěku do přírody nebo kultury. Hlavními hrdiny bývají lidé
+ztracení v labyrintu světa, obvykle rozvrácené, silně citově založené
+osoby, které nemohou najít pevný bod ve svém životě. Pojem ztracená
+generace zavedla Gertruda Steinová. Další autoři:
 
-- Amerika: John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a
-  lidech), Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ
-  Bejnamina Buttona), **Ernest Hemingway** (Stařec a moře, Komu zvoní
-  hrana, Sbohem armádo)
+- **Amerika**:
+  - John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a
+    lidech),
+  - Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ
+    Bejnamina Buttona),
+  - **Ernest Hemingway** (Stařec a moře, Komu zvoní
+    hrana, Sbohem armádo)
 
-- Francie: Romain Rolland, Henri Barbusse, Marcel Proust (Hledání
-  ztraceného času)
+- **Francie**:
+  - Romain Rolland,
+  - Henri Barbusse,
+  - Marcel Proust (Hledání
+    ztraceného času)
 
-- Anglie: James Joyce (Odysseus, Dubliňané)
+- **Anglie**:
+  -James Joyce (Odysseus, Dubliňané)
 
-- Německo: Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya,
-  Bláznova moudrost), **Erich Maria Remarque** (Na západní frontě
-  klid, Nebe nezná vyvolených)
+- **Německo**: 
+    - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya,
+  Bláznova moudrost), 
+    - **Erich Maria Remarque** (Na západní frontě
+  klid, 
+    - Nebe nezná vyvolených)
 
-- ČR: **Franz Kafka** (Proces, Proměna, Venkovský Lékař)
+- ČR: 
+    - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)

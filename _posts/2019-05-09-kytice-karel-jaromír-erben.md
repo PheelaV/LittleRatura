@@ -5,7 +5,7 @@ categories: [SV-CZ-19]
 tags: [Karel Jaromír Erben]
 ---
 
-# Kytice
+# Kytice | Karel Jaromír Erben
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
