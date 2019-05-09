@@ -41,50 +41,54 @@ Lit žánr - Román, (filozofický, pohádkový příběh)
 
 #### POSTAVA/Y
 
-- **Hlavní**
-    - Malý princ
+##### **Hlavní**
+
+- Malý princ
     - Má zlaté vlasy, velmi citlivý, vnímavý, bezelstný, nezkažený,
-        mladý, zásadový, svědomitý, má rád západy Slunce, které se na
-        jeho planetě střídají velmi rychle. Stále se na něco
-        vyptává,vyžaduje odpovědi, avšak nikdy neodpoví na otázky
-        cizí. Je zklamaný lidskými charaktery, hlavně nedostatkem
-        fantazie dospělých, později nachází skutečný smysl života –
-        liška. Planeta B612 – domov.
-    - Pilot
+    mladý, zásadový, svědomitý, má rád západy Slunce, které se na
+    jeho planetě střídají velmi rychle. Stále se na něco
+    vyptává,vyžaduje odpovědi, avšak nikdy neodpoví na otázky
+    cizí. Je zklamaný lidskými charaktery, hlavně nedostatkem
+    fantazie dospělých, později nachází skutečný smysl života –
+    liška. Planeta B612 – domov.
+- Pilot 
     - Vypravěč, autor díla, trochu samotářský, snílek. Ztroskotal na
-        Sahaře, je zaměstnaný opravou letadla. Autobiografické rysy,
-        dobře si pamatuje své dětství, nepochopený ze strany dospělých
-        – hroznýš se slonem v břiše. Snaží se malému princi odpovídat
-        na otázky, říká to, co si doopravdy myslí.
-    - Květina
-    - Marnivá, nafoukaná, plná pýchy, domýšlivá.
-- **Vedlejší**
-    - Král
-    - Pořád si potřebuje dokazovat svoji nadřazenost, panovačný – řídí
-        své okolí neustálými rozkazy.
-    - Domýšlivec
-    - Je samolibý a slyší jen samou chválu na svoji osobu.
-    - Pijan
-    - Osamělý, utápí se v alkoholu, z čehož je nešťastný a proto pije
-        dál. Jeho životem je pro něj alkohol.
-    - Businessman
-    - Je stále velmi zaneprázdněn, zakládá si na preciznosti a
-        přesnosti, na nic nemá čas.
-    - Myslí si, že je všechno jeho.
-    - Lampář
-    - Pracovitý, ale smutný, věrný příkazu. Na malého prince udělal
-        dojem svou službou pro druhé.
-    - Zeměpisec
-    - Sobecký, myslí si, že je nejdůležitější na světě.
-    - Liška
-    - Modrá, přátelská, pozitivně ovlivnila myšlení mladého prince,
-        pomohla mu najít skutečný smysl života (láska, přátelství),
-        poprosila malého prince, aby si ji ochočil.
-    - Had
-    - Jeho uštknutí navrací malého prince na jeho domovskou planetu.
-    - Výhybkář a obchodník s pilulkami na žízeň
-    - Reprezentují spěch a honbu za náhražkami – pro malého prince
-        nesmyslné, zbytečné, bezcenné.
+    Sahaře, je zaměstnaný opravou letadla. Autobiografické rysy,
+    dobře si pamatuje své dětství, nepochopený ze strany dospělých.
+– Hroznýš
+  -Snaží se malému princi odpovídat
+  na otázky, říká to, co si doopravdy myslí.
+- Květina
+  - Marnivá, nafoukaná, plná pýchy, domýšlivá.
+
+##### **Vedlejší**
+
+- Král
+  - Pořád si potřebuje dokazovat svoji nadřazenost, panovačný – řídí
+    své okolí neustálými rozkazy.
+- Domýšlivec
+  - Je samolibý a slyší jen samou chválu na svoji osobu.
+- Pijan
+  - Osamělý, utápí se v alkoholu, z čehož je nešťastný a proto pije
+    dál. Jeho životem je pro něj alkohol.
+- Businessman
+  - Je stále velmi zaneprázdněn, zakládá si na preciznosti a
+    přesnosti, na nic nemá čas.
+  - Myslí si, že je všechno jeho.
+- Lampář
+  - Pracovitý, ale smutný, věrný příkazu. Na malého prince udělal
+    dojem svou službou pro druhé.
+- Zeměpisec
+  - Sobecký, myslí si, že je nejdůležitější na světě.
+- Liška
+  - Modrá, přátelská, pozitivně ovlivnila myšlení mladého prince,
+    pomohla mu najít skutečný smysl života (láska, přátelství),
+    poprosila malého prince, aby si ji ochočil.
+- Had
+  - Jeho uštknutí navrací malého prince na jeho domovskou planetu.
+- Výhybkář a obchodník s pilulkami na žízeň
+  - Reprezentují spěch a honbu za náhražkami – pro malého prince
+    nesmyslné, zbytečné, bezcenné.
 
 #### VYPORÁVĚCÍ ZPŮSOBY
 
@@ -105,9 +109,8 @@ zbytek je v er-formě (vyprávění malého prince)
     kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc
     malá. Není tam místo pro dva...
 
-**Vnitřní monology** 
-    "Dospělí jsou hrozně zvláštní," pomyslel si cestou
-    malý princ. Nebo když přemýšlí o své květině.
+**Vnitřní monology** -"Dospělí jsou hrozně zvláštní, pomyslel si cestou
+malý princ." Nebo když přemýšlí o své květině.
 
 **Dialogy**, které vedou často k zamyšlení
 
@@ -191,6 +194,7 @@ osoby, které nemohou najít pevný bod ve svém životě. Pojem ztracená
 generace zavedla Gertruda Steinová. Další autoři:
 
 - **Amerika**:
+
   - John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a
     lidech),
   - Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ
@@ -199,6 +203,7 @@ generace zavedla Gertruda Steinová. Další autoři:
     hrana, Sbohem armádo)
 
 - **Francie**:
+
   - Romain Rolland,
   - Henri Barbusse,
   - Marcel Proust (Hledání
@@ -207,12 +212,13 @@ generace zavedla Gertruda Steinová. Další autoři:
 - **Anglie**:
   -James Joyce (Odysseus, Dubliňané)
 
-- **Německo**: 
-    - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya,
-  Bláznova moudrost), 
-    - **Erich Maria Remarque** (Na západní frontě
-  klid, 
-    - Nebe nezná vyvolených)
+- **Německo**:
 
-- ČR: 
-    - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)
+  - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya,
+    Bláznova moudrost),
+  - **Erich Maria Remarque** (Na západní frontě
+    klid,
+  - Nebe nezná vyvolených)
+
+- ČR:
+  - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)
