@@ -2,7 +2,7 @@
 title: Proměna
 layout: post
 categories: [CZ-20-21]
-tags: [Franz Kafka]
+tags: [KATEGORIE]
 ---
 
 # PROMĚNA | Franz KAFKA
@@ -10,8 +10,6 @@ tags: [Franz Kafka]
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
 ### I.ČÁST
-
-#### zasazení výňatku do kontextu díla
 
 #### Téma a motiv
 
