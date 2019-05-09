@@ -12,3 +12,11 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media print {
+  header,
+  footer,
+  .post-nav {
+    display: none;
+  }
+}

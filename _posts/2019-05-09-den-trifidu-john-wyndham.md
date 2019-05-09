@@ -122,9 +122,7 @@ výstižný obsáhlejší způsob vyjadřování – delší souvětí, spisovn�
 občasné použití slangu v přímé řeči. Reportážní vyprávěcí technika,
 rychlý spád.
 
-###
-
-# Literárnéhistorický konext
+#### Literárnéhistorický konext
 
 #### Kontext autorovy tvorby
 
@@ -136,12 +134,12 @@ pozornost.
 
 **STVŮRA PROCITÁ** (THE KRAKEN WAKES, 1953)
 
-\- apokalyptický zápas mimozemských monster, která se usadila v
+Apokalyptický zápas mimozemských monster, která se usadila v
 hlubinách oceánu o nadvládu nad světem.
 
 **KUKLY** (THE CHRYSALIDS, 1955)
 
-\- příběh dětí – mutantů zárodků nové telepatické rasy, kteří jsou pro
+Příběh dětí – mutantů zárodků nové telepatické rasy, kteří jsou pro
 svou odlišnost nemilosrdně pronásledováni ve jménu “normálnosti” všech
 ostatních.
 

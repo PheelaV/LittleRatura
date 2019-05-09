@@ -13,6 +13,7 @@
                 {% else %}
                 <span>-</span>
                 {% endif %}
+                <a href="">💾download(.docx)</a>
                 {% if page.next %}
                 <a href="/LittleRatura/{{ page.next.url }}">Dále: {{ page.next.title }}</a>
                 {% else %}
