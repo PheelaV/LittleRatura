@@ -197,30 +197,24 @@ generace zavedla Gertruda Steinová. Další autoři:
 
 - **Amerika**:
 
-  - John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a
-    lidech),
-  - Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ
-    Bejnamina Buttona),
-  - **Ernest Hemingway** (Stařec a moře, Komu zvoní
-    hrana, Sbohem armádo)
+  - John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a lidech),
+  - Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ Bejnamina Buttona),
+  - **Ernest Hemingway** (Stařec a moře, Komu zvoní hrana, Sbohem armádo)
 
 - **Francie**:
 
   - Romain Rolland,
   - Henri Barbusse,
-  - Marcel Proust (Hledání
-    ztraceného času)
+  - Marcel Proust (Hledání  ztraceného času)
 
 - **Anglie**:
   -James Joyce (Odysseus, Dubliňané)
 
 - **Německo**:
 
-  - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya,
-    Bláznova moudrost),
+  - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya, Bláznova moudrost),
   - **Erich Maria Remarque** (Na západní frontě
-    klid,
-  - Nebe nezná vyvolených)
+    klid, Nebe nezná vyvolených)
 
 - ČR:
   - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)
