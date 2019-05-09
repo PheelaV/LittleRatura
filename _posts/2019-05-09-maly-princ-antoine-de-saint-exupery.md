@@ -7,7 +7,7 @@ tags: [Antoine de Saint-Exupéry]
 
 Malý princ
 
-# Mmalý Princ | Antoine de Saint-Eexupéry
+# Malý Princ | Antoine de Saint-Eexupéry
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
