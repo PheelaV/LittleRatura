@@ -9,13 +9,16 @@
             role="main">
             <div class="post-nav">
                 {% if page.previous %}
-                <a href="/LittleRatura/{{ page.previous.url }}">Před: {{ page.previous.title }}</a>
+                <a href="/{{ page.previous.url }}">Před: {{ page.previous.title }}</a>
                 {% else %}
                 <span>-</span>
                 {% endif %}
-                <a href="">💾download(.docx)</a>
+                <a href="../docs/processed/word.docx">💾 stáhnout(.docx)</a>
+                <a href="#"
+                    onclick="window.print();return false;"
+                    rel="nofollow noopener">🖨 vytisknout </a>
                 {% if page.next %}
-                <a href="/LittleRatura/{{ page.next.url }}">Dále: {{ page.next.title }}</a>
+                <a href="/{{ page.next.url }}">>>: {{ page.next.title }}</a>
                 {% else %}
                 <span>-</span>
                 {% endif %}
