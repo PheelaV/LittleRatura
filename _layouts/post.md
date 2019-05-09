@@ -6,9 +6,6 @@
         <h1 class="project-name">
         {{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        {% if site.github.is_project_page %}
-            <a href="{{ site.github.repository_url }}" class="btn btn-info">View on GitHub</a>
-        {% endif %}
         <!-- {% for page in site.pages %}
 
             <a href=/LittleRatura/{{ page.filename }} class="btn">{{ page.title }}</a>
