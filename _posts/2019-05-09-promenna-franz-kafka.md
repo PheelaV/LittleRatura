@@ -2,7 +2,7 @@
 title: Proměna
 layout: post
 categories: [CZ-20-21]
-tags: [Franz KAFKA]
+tags: [Franz Kafka]
 ---
 
 # PROMĚNA | Franz KAFKA
@@ -38,7 +38,7 @@ Jedná se o dílo s dějem kratšího rozsahu, tedy o epické povídce.
 
 Er forma, vypravěč je vševědoucí.
 
-#### PostavY
+#### Postavy
 
 ##### Hlavní
 
@@ -102,10 +102,6 @@ nebudou hotovy…
 **Pásmo vypravěče v er formě:**
 
     Když si to všechno v největším spěchu rozvažoval
-
-#### Veršová výstavba
-
-Dílo není veršováno
 
 ### III. ČÁST
 
