@@ -9,7 +9,7 @@
             role="main">
             <div class="post-nav">
                 {% if page.previous %}
-                <a href="/{{ page.previous.url }}">Před: {{ page.previous.title }}</a>
+                <a href="/{{ page.previous.url }}"> <<< {{ page.previous.title }}</a>
                 {% else %}
                 <span>-</span>
                 {% endif %}
@@ -18,7 +18,7 @@
                     onclick="window.print();return false;"
                     rel="nofollow noopener">🖨 vytisknout </a>
                 {% if page.next %}
-                <a href="/{{ page.next.url }}">>>: {{ page.next.title }}</a>
+                <a href="/{{ page.next.url }}"> >>> {{ page.next.title }}</a>
                 {% else %}
                 <span>-</span>
                 {% endif %}
