@@ -2,10 +2,10 @@
 title: Proměna
 layout: post
 categories: [CZ-20-21]
-tags: [KATEGORIE]
+tags: [Franz Kafka]
 ---
 
-# PROMĚNA | Franz KAFKA
+# PROMĚNA | Franz Kafka
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
@@ -69,21 +69,19 @@ Er forma, vypravěč je vševědoucí.
     Už nemůže být pohodlným člověkem. Je tvrdý, praktický a
     přísný.
 
-####
-
-Vyprávěcí způsoby
+#### Vyprávěcí způsoby
 
 **Polopřímá řeč**
-Ačkoli si Řehoř znovu a znovu říkal, že se přece neděje nic
-mimořádného, že jenom....
+    Ačkoli si Řehoř znovu a znovu říkal, že se přece neděje nic
+    mimořádného, že jenom....
 
 **Přímá řeč**
-"Ano, ano, děkuji maminko, už vstávám."
+    "Ano, ano, děkuji maminko, už vstávám."
 
 **Nevlastní přímá řeč**
-Když už pracovaly jistě čtvrt hodiny, řekla matka, že by se prádelník
-přece jen měl nechat, kde je, poněvadž za prvé je příliš těžký,
-nebudou hotovy…
+    Když už pracovaly jistě čtvrt hodiny, řekla matka, že by se prádelník
+    přece jen měl nechat, kde je, poněvadž za prvé je příliš těžký,
+    nebudou hotovy…
 
 #### Typy promluv
 
@@ -112,11 +110,11 @@ prostý.
 
 #### Tropy a figury a jejich funkce výňatku
 
-Eufemismus (\* tropy): z chřípí mu slabě unikl dech
+**Eufemismus** (\* tropy): z chřípí mu slabě unikl dech
 
-Hyperbola (\* tropy): s největší rychlostí bouchl dveřmi
+**Hyperbola** (\* tropy): s největší rychlostí bouchl dveřmi
 
-Řečnická otázka(figury): A teď?
+**Řečnická otázka** (figury): A teď?
 
 ## Literárnéhistorický konext
 
@@ -141,9 +139,8 @@ Počátek 20. století, patřil do pražského vnitřního kruhu **německých**
 autorů společně s Oskarem Bauem a Felixem Weltischem.
 
 **Amerika**
-
 - Ernest Hemingway (Komu Zvoní Hrana), ztracená generace
-  **Německo**
+**Německo**
 - Erich Maria Remarque (Na Západní Frontě Klid)
 
 a další.
