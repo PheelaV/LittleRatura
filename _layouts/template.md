@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "es-CZ" }}">
+<html lang="{{ site.lang | default: "cs-CZ" }}">
   {% include head.html %}
   <body>
     <header class="page-header" role="banner">
