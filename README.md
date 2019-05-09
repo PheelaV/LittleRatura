@@ -2,6 +2,7 @@
 
 1. **Use MD posting template or use DOCX posting template and either contact the administrator or convert it to MD by your self using the ps1 script in docs**
 1. **Never forget to include an apropriate header - example is down below**
+1. **If the category or authors name is already used in the category or tag block, use the existing one**
 
 ```
 ---
@@ -11,6 +12,20 @@ categories: [SV-20-21|SV-CZ-19|SV-20-21|CZ-20-21]
 tags: [<author name>]
 ---
 ```
+
+# Converting docx to md
+
+###prerequisites:
+
+- [pandoc](https://pandoc.org/installing.html)
+- [powershell](https://github.com/PowerShell/PowerShell/releases)
+
+### steps:
+
+1. make sure that the document name is in lowercase separated by '-'
+1. fill queue folder with docx documents
+1. execute **docxToMd.ps1**
+1. that is all
 
 # Welcome to GitHub Pages
 
