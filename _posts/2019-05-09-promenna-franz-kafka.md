@@ -1,9 +1,10 @@
 ---
-title: Den trifidů
+title: Proměna
 layout: post
 categories: [CZ-20-21]
 tags: [Franz KAFKA]
 ---
+
 # PROMĚNA | Franz KAFKA
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
@@ -40,48 +41,51 @@ Er forma, vypravěč je vševědoucí.
 #### PostavY
 
 ##### Hlavní
-    
-- **Řehoř Samsa**      
-    - Jediný živitel rodiny. Ochotně domů nosí výplatu, kde jí
-        s naprostou samozřejmostí přijímají. Řehoř si je tohoto
-        všeho vědom, ale nevadí mu to, chce, aby se jeho rodina
-        měla dobře a nechce jim ztěžovat život. Je poctivý
-        pracovitý, živý rodinu, milý, bere svou proměnu jako fakt,
-        necítí se ukřivděn.
+
+- **Řehoř Samsa**
+  - Jediný živitel rodiny. Ochotně domů nosí výplatu, kde jí
+    s naprostou samozřejmostí přijímají. Řehoř si je tohoto
+    všeho vědom, ale nevadí mu to, chce, aby se jeho rodina
+    měla dobře a nechce jim ztěžovat život. Je poctivý
+    pracovitý, živý rodinu, milý, bere svou proměnu jako fakt,
+    necítí se ukřivděn.
 
 ##### Vedlejší
-    
-- **Řehořova matka**        
-    - Řehoře lituje, doufá, že je jeho stav pouze dočasný.
+
+- **Řehořova matka**
+
+  - Řehoře lituje, doufá, že je jeho stav pouze dočasný.
     Nevydrží pohled na Řehoře, má z něj hrůzu. Stejně jako
     sestra si musí najít zaměstnání a Řehoř jí tím pádem jen
     ztěžuje život.
 
-- **Řehořova sestra Markéta**        
-    - Řehořova hudebně talentovaná, sedmnáctiletá sestra. Jako
+- **Řehořova sestra Markéta**
+
+  - Řehořova hudebně talentovaná, sedmnáctiletá sestra. Jako
     jediná Řehoře lituje, protože ho má velice ráda. Stará se o
     něj. Těžko překonává svůj postupně se zvětšující odpor až jí
     nakonec přemůže. Začíná ho nenávidět a přeje si, aby zmizel
 
-- **Řehořův otec**        
-    - Zpočátku nezaměstnaný, to se stejně jako u ostatních změní.
+- **Řehořův otec**
+  - Zpočátku nezaměstnaný, to se stejně jako u ostatních změní.
     Už nemůže být pohodlným člověkem. Je tvrdý, praktický a
     přísný.
 
-####   
+####
+
 Vyprávěcí způsoby
 
 **Polopřímá řeč**
-    Ačkoli si Řehoř znovu a znovu říkal, že se přece neděje nic
-    mimořádného, že jenom....
+Ačkoli si Řehoř znovu a znovu říkal, že se přece neděje nic
+mimořádného, že jenom....
 
 **Přímá řeč**
-    "Ano, ano, děkuji maminko, už vstávám."
+"Ano, ano, děkuji maminko, už vstávám."
 
 **Nevlastní přímá řeč**
-    Když už pracovaly jistě čtvrt hodiny, řekla matka, že by se prádelník
-    přece jen měl nechat, kde je, poněvadž za prvé je příliš těžký,
-    nebudou hotovy…
+Když už pracovaly jistě čtvrt hodiny, řekla matka, že by se prádelník
+přece jen měl nechat, kde je, poněvadž za prvé je příliš těžký,
+nebudou hotovy…
 
 #### Typy promluv
 
@@ -114,9 +118,9 @@ prostý.
 
 #### Tropy a figury a jejich funkce výňatku
 
-Eufemismus (* tropy): z chřípí mu slabě unikl dech
+Eufemismus (\* tropy): z chřípí mu slabě unikl dech
 
-Hyperbola (* tropy): s největší rychlostí bouchl dveřmi
+Hyperbola (\* tropy): s největší rychlostí bouchl dveřmi
 
 Řečnická otázka(figury): A teď?
 
@@ -143,11 +147,12 @@ Počátek 20. století, patřil do pražského vnitřního kruhu **německých**
 autorů společně s Oskarem Bauem a Felixem Weltischem.
 
 **Amerika**
-- Ernest Hemingway (Komu Zvoní Hrana), ztracená generace
-**Německo**
-- Erich Maria Remarque (Na Západní Frontě Klid) 
 
-a další. 
+- Ernest Hemingway (Komu Zvoní Hrana), ztracená generace
+  **Německo**
+- Erich Maria Remarque (Na Západní Frontě Klid)
+
+a další.
 
 **Existencialismus**, cílem života je
 smrt. Moderní experimentální proud, narušení klasického pojetí románu,
