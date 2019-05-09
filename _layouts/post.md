@@ -24,9 +24,13 @@
             <div class="post-nav">
                 {% if page.previous %}
                 <a href="/LittleRatura/{{ page.previous.url }}">Před: {{ page.previous.title }}</a>
+                {% else %}
+                <span>-</span>
                 {% endif %}
                 {% if page.next %}
                 <a href="/LittleRatura/{{ page.next.url }}">Dále: {{ page.netx.title }}</a>
+                {% else %}
+                <span>-</span>
                 {% endif %}
             </div>
             {{ content }}
