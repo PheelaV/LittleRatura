@@ -15,7 +15,7 @@
                         {% else %}
                         <span>-</span>
                         {% endif %}
-                        <a href="docs/processed/word.docx"
+                        <a href="{{ page.pageDownload }}"
                             download>💾 stáhnout(.docx)</a>
                         <a href="#"
                             onclick="window.print();return false;"

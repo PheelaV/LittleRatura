@@ -3,6 +3,7 @@ title: Proměna
 layout: post
 categories: [CZ-20-21]
 tags: [Franz Kafka]
+pageDownload: /docs/processed/promenna-franz-kafka.docx
 ---
 
 # PROMĚNA | Franz Kafka

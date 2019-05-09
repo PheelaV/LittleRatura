@@ -3,6 +3,7 @@ title: Den trifidů
 layout: post
 categories: [SV-20-21]
 tags: [John Wyndham]
+pageDownload: /docs/den-trifidu-john-wyndham.docx
 ---
 
 # Den trifidů | John Wyndham

@@ -3,6 +3,7 @@ title: Malý princ
 layout: post
 categories: [SV-20-21]
 tags: [Antoine de Saint-Exupéry]
+pageDownload: /docs/processed/maly-princ-antoine-de-saint-exupery.docx
 ---
 
 Malý princ
@@ -44,18 +45,17 @@ Lit žánr - Román, (filozofický, pohádkový příběh)
 ##### **Hlavní**
 
 - **Malý princ**
-    - Má zlaté vlasy, velmi citlivý, vnímavý, bezelstný, nezkažený,
+  - Má zlaté vlasy, velmi citlivý, vnímavý, bezelstný, nezkažený,
     mladý, zásadový, svědomitý, má rád západy Slunce, které se na
     jeho planetě střídají velmi rychle. Stále se na něco
     vyptává,vyžaduje odpovědi, avšak nikdy neodpoví na otázky
     cizí. Je zklamaný lidskými charaktery, hlavně nedostatkem
     fantazie dospělých, později nachází skutečný smysl života –
     liška. Planeta B612 – domov.
-- **Pilot** 
-    - Vypravěč, autor díla, trochu samotářský, snílek. Ztroskotal na
-    Sahaře, je zaměstnaný opravou letadla. Autobiografické rysy,
-    dobře si pamatuje své dětství, nepochopený ze strany dospělých.
-– **Hroznýš**
+- **Pilot** - Vypravěč, autor díla, trochu samotářský, snílek. Ztroskotal na
+  Sahaře, je zaměstnaný opravou letadla. Autobiografické rysy,
+  dobře si pamatuje své dětství, nepochopený ze strany dospělých.
+  – **Hroznýš**
   -Snaží se malému princi odpovídat
   na otázky, říká to, co si doopravdy myslí.
 - **Květina**
@@ -109,8 +109,8 @@ zbytek je v er-formě (vyprávění malého prince)
     kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc
     malá. Není tam místo pro dva...
 
-**Vnitřní monology** 
-    "Dospělí jsou hrozně zvláštní, pomyslel si cestou
+**Vnitřní monology**
+"Dospělí jsou hrozně zvláštní, pomyslel si cestou
 malý princ."
 Nebo když přemýšlí o své květině.
 
@@ -205,7 +205,7 @@ generace zavedla Gertruda Steinová. Další autoři:
 
   - Romain Rolland,
   - Henri Barbusse,
-  - Marcel Proust (Hledání  ztraceného času)
+  - Marcel Proust (Hledání ztraceného času)
 
 - **Anglie**:
   -James Joyce (Odysseus, Dubliňané)
