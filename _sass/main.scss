@@ -1,11 +1,9 @@
-@import 'style.scss';
-
-// .logo-btn {
-//   @extend '.btn';
-//   font-family: Brush Script MT, cursive;
-//   font-size: 2em;
-//   padding: 0 1rem;
-// }
+.logo-btn {
+  font-family: Brush Script MT, cursive;
+  font-size: 2em;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
 
 .post-nav {
   display: flex;

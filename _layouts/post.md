@@ -11,7 +11,7 @@
                 {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
             <a href="/LittleRatura/index.html"
-                class="logo-btn">LittleRatura</a></li>
+                class="btn logo-btn">LittleRatura</a></li>
             {% for item in site.data.siteList.docs %}
             <a href="{{ item.url }}"
                 class="btn btn-info">{{ item.title }}</a></li>
