@@ -134,7 +134,7 @@ skok a skok, a ona za ním co jí krok.)
 stejného slova nebo slovních spojení za sebou v jednom verši. Př.: a
 vyli, vyli divnou věc.)
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 
