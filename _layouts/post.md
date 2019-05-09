@@ -5,7 +5,11 @@
     <body>
         <header class="page-header"
             role="banner">
-            <h1 class="project-name">
+            <h1 class="project-name"
+                {% if page.title == 'LittleRatura'  %}style="font-family: Brush Script MT, cursive;"
+                {% endif %}>
+                {% if page.title == 'LittleRatura' %}
+                {% endif %}
                 {{ page.title | default: site.title | default: site.github.repository_name }}</h1>
             <h2 class="project-tagline">
                 {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>

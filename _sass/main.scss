@@ -1,5 +1,8 @@
-.logo-btn {
+.logo-font {
   font-family: Brush Script MT, cursive;
+}
+.logo-btn {
+  @extend .logo-font;
   font-size: 2em;
   padding-bottom: 0 !important;
   padding-top: 0 !important;
