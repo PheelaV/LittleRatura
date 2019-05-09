@@ -14,7 +14,7 @@
             <a href=/LittleRatura/{{ page.filename }} class="btn">{{ page.title }}</a>
         {% endfor %} -->
 
-        {% for item in site.data.samplelist.docs %}
+        {% for item in site.data.siteList.docs %}
             <a href="{{ item.url }}" class="btn btn-info">{{ item.title }}</a></li>
         {% endfor %}
         {%- comment -%} {% if site.show_downloads %}
