@@ -10,7 +10,7 @@
             <div class="post-nav">
                 {% if page.previous %}
                 <a class="btn btn-dark"
-                    href="/{{ page.previous.url }}">
+                    href="{{ page.previous.url }}">
                     <<< {{ page.previous.title }}</a>
                         {% else %}
                         <span>-</span>
@@ -22,7 +22,7 @@
                             rel="nofollow noopener">🖨️ vytisknout </a>
                         {% if page.next %}
                         <a class="btn btn-dark"
-                            href="/{{ page.next.url }}">>>> {{ page.next.title }}</a>
+                            href="{{ page.next.url }}">>>> {{ page.next.title }}</a>
                         {% else %}
                         <span>-</span>
                         {% endif %}
