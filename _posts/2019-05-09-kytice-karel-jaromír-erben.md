@@ -1,3 +1,10 @@
+---
+title: Kytice
+layout: post
+categories: [SV-CZ-19]
+tags: [Karel Jaromír Erben]
+---
+
 # Kytice
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
@@ -206,7 +213,7 @@ manžela /, který ji obdivoval. Snaží se napravit svého muže, velkého
 sobce. To se jí daří. Muž začne pracovat ve veřejně prospěšných pracích
 a tím zlomí prokletí jeho rodu. V tomto díle chtěla Světlá ukázat, jak
 důležitá je čistá a velká láska, která může člověka osvobodit z jeho
-prohřešků. 
+prohřešků.
 
 ##### Shrnutí:
 
