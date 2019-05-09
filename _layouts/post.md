@@ -9,17 +9,20 @@
             role="main">
             <div class="post-nav">
                 {% if page.previous %}
-                <a href="/{{ page.previous.url }}"> _<<< {{ page.previous.title }}_</a>
+                <a class="btn"
+                    href="/{{ page.previous.url }}">
+                    <<< {{ page.previous.title }}</a>
                         {% else %}
                         <span>-</span>
                         {% endif %}
-                        <a href="../docs/processed/word.docx"
+                        <a href="docs/processed/word.docx"
                             download>💾 stáhnout(.docx)</a>
                         <a href="#"
                             onclick="window.print();return false;"
                             rel="nofollow noopener">🖨️ vytisknout </a>
                         {% if page.next %}
-                        <a href="/{{ page.next.url }}"> _>>> {{ page.next.title }}_ </a>
+                        <a class="btn"
+                            href="/{{ page.next.url }}">>>> {{ page.next.title }}</a>
                         {% else %}
                         <span>-</span>
                         {% endif %}
