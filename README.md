@@ -1,3 +1,17 @@
+# Posting new books
+
+1. **Use MD posting template or use DOCX posting template and either contact the administrator or convert it to MD by your self using the ps1 script in docs**
+1. **Never forget to include an apropriate header - example is down below**
+
+```
+---
+title: <book name>
+layout: post
+categories: [SV-20-21|SV-CZ-19|SV-20-21|CZ-20-21]
+tags: [<author name>]
+---
+```
+
 # Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Feelav/LittleRatura/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
