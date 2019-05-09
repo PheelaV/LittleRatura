@@ -10,6 +10,7 @@
             <a href="{{ site.github.repository_url }}" class="btn btn-info">View on GitHub</a>
         {% endif %}
         {% for page in site.pages %}
+        <!-- {% if page.title == 'Sow Off'%} -->
             <a href=/LittleRatura/{{ page.filename }} class="btn">{{ page.title }}</a>
         {% endfor %}
         {%- comment -%} {% if site.show_downloads %}
