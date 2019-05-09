@@ -10,7 +10,6 @@ Get-ChildItem .\queue\ | ForEach-Object {
     }
 
     echo $outputName
-    echo $outputDir + '/' + $outputName
 
     pandoc -s $_.FullName -t gfm -o $outputName 
     Move-Item $_.FullName $processedPath

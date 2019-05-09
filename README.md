@@ -1,6 +1,7 @@
 # Posting new books
 
 1. **Use MD posting template or use DOCX posting template and either contact the administrator or convert it to MD by your self using the ps1 script in docs**
+1. **Only use formating that is already existing in the templates**
 1. **Never forget to include an apropriate header - example is down below**
 1. **If the category or authors name is already used in the category or tag block, use the existing one**
 
@@ -15,7 +16,7 @@ tags: [<author name>]
 
 # Converting docx to md
 
-###prerequisites:
+### prerequisites:
 
 - [pandoc](https://pandoc.org/installing.html)
 - [powershell](https://github.com/PowerShell/PowerShell/releases)

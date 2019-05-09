@@ -1,10 +1,10 @@
 ---
-title: priklad postu
-# nemenit layout
+#viz https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
+title: příklad postu
 layout: post
-filename: jmeno-dila-jmeno-autora
+
 categories: [SV-20-21]
-tags: [de Saint-Exupery A]
+tags: [Karel Erben]
 ---
 
 # NÁZEV DÍLA
@@ -36,18 +36,7 @@ tags: [de Saint-Exupery A]
   _ Jmeno
   _ Jmeno
 
-1. Hlavni
-   1. Jmeno postavy
-   1. Jmeno postavy
-1. Vedlejší
-   1. Jmeno postavy
-   1. Jmeno postavy
-   1. Jmeno postavy
-   1. Jmeno postavy
-
 #### VYPORÁVĚCÍ ZPŮSOBY
-
-#### Vyprávěcí způsoby
 
 - Polopřímá řeč
   - priklad
@@ -99,3 +88,33 @@ tags: [de Saint-Exupery A]
 #### KOMPOZIČNÍ VÝSTAVBA VÝŇATKU
 
 #### JAZYKOVÉ PROSTŘEDKY A JEJICH FUNKCE VE VÝŇATKU
+
+# Ukazka povoleneho formatovani:
+
+# Nadpis 1
+
+## Nadpis 2
+
+### Nadpis 3
+
+#### Nadpis 4
+
+**tluste**
+**podtrzene**
+
+- Nerazeny
+  -podKategorie
+- Seznam
+
+1. Serazeny
+   1. podkatekorie
+   1. podkategorie
+2. Seznam
+
+| Prvni hlavicka | Druha hlavicka           |
+| -------------- | ------------------------ |
+| Data bunky A1  | Data bunky B1            |
+| Data bunky A2  | DeeeeeeelsiData bunky B2 |
+
+obrazky:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
