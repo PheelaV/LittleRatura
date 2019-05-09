@@ -5,7 +5,7 @@ layout: template
 
 ## Vítej na LittleRatura
 
-Tato stránka je spravována člověkem, který by si příl odmaturovat a dalšími jeho spřízněnci.
+Tuto stránku spravuje člověk spolu s dalšími jeho spřízněnými dušemi, které chtějí odmaturovat stejně jako ty!
 
 <div style="text-align: center;"><img src="assets/img/i-want-you.jpg"></div>
 
