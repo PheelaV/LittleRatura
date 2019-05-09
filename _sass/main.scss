@@ -1,11 +1,10 @@
-.red {
-  color: red;
-}
+@import '/assets/css/style.css';
 
 .logo-btn {
   @extend .btn;
   font-family: Brush Script MT, cursive;
   font-size: 2em;
+  padding: 0 1rem;
 }
 
 .post-nav {
