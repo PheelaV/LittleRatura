@@ -8,6 +8,18 @@
   padding-top: 0 !important;
 }
 
+.btn-dark {
+  color: rgba(116, 120, 123, 0.7) !important;
+  background-color: rgba(255, 255, 255, 0.67) !important;
+  border-color: rgba(116, 120, 123, 0.7) !important;
+  :hover {
+    color: rgb(23, 23, 23) !important;
+    text-decoration: none;
+    background-color: rgba(230, 230, 230, 0.67) !important;
+    border-color: rgb(23, 23, 23) !important;
+  }
+}
+
 .post-nav {
   display: flex;
   justify-content: space-between;

@@ -9,7 +9,7 @@
             role="main">
             <div class="post-nav">
                 {% if page.previous %}
-                <a class="btn"
+                <a class="btn btn-dark"
                     href="/{{ page.previous.url }}">
                     <<< {{ page.previous.title }}</a>
                         {% else %}
@@ -21,7 +21,7 @@
                             onclick="window.print();return false;"
                             rel="nofollow noopener">🖨️ vytisknout </a>
                         {% if page.next %}
-                        <a class="btn"
+                        <a class="btn btn-dark"
                             href="/{{ page.next.url }}">>>> {{ page.next.title }}</a>
                         {% else %}
                         <span>-</span>
