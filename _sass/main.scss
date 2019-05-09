@@ -2,6 +2,13 @@
   color: red;
 }
 
-.logoText {
+.logo-btn {
+  @extend .btn;
   font-family: Brush Script MT, cursive;
+  font-size: 2em;
+}
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
 }
