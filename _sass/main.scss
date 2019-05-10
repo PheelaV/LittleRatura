@@ -15,6 +15,7 @@
   color: rgba(116, 120, 123, 0.7) !important;
   background-color: rgba(255, 255, 255, 0.67) !important;
   border-color: rgba(116, 120, 123, 0.7) !important;
+  text-align: center;
   &:hover {
     color: rgb(23, 23, 23) !important;
     text-decoration: none;
@@ -27,6 +28,15 @@
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+}
+
+@media all and (max-width: 675px) {
+  .post-nav {
+    flex-direction: column;
+  }
+  // .post-nav-text {
+  //   display: none;
+  // }
 }
 
 @media print {

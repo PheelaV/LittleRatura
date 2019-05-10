@@ -11,21 +11,25 @@
                 {% if page.previous %}
                 <a class="btn btn-dark"
                     href="{{ page.previous.url }}">
-                    <<< {{ page.previous.title }}</a>
-                        {% else %}
-                        <span>-</span>
-                        {% endif %}
-                        <a href="{{ page.pageDownload }}"
-                            download>💾 stáhnout(.docx)</a>
-                        <a href="#"
-                            onclick="window.print();return false;"
-                            rel="nofollow noopener">🖨️ vytisknout </a>
-                        {% if page.next %}
-                        <a class="btn btn-dark"
-                            href="{{ page.next.url }}">>>> {{ page.next.title }}</a>
-                        {% else %}
-                        <span>-</span>
-                        {% endif %}
+                    <<< <span
+                        class="post-nav-text">{{ page.previous.title }}</span>
+                </a>
+                {% else %}
+                <span>-</span>
+                {% endif %}
+                <a href="{{ page.pageDownload }}"
+                    class="btn btn-dark"
+                    download>💾 <span class="post-nav-text">stáhnout</span>(.docx)</a>
+                <a href="#"
+                    class="btn btn-dark"
+                    onclick="window.print();return false;"
+                    rel="nofollow noopener">🖨️ <span class="post-nav-text">vytisknout</span> </a>
+                {% if page.next %}
+                <a class="btn btn-dark"
+                    href="{{ page.next.url }}">>>> <span class="post-nav-text">{{ page.next.title }}</span></a>
+                {% else %}
+                <span>-</span>
+                {% endif %}
             </div>
             {{ content }}
 
