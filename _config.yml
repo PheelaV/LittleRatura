@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 # permalink: /LittleRatura/:categories/:year/:month/:day/:title/
 google_analytics: UA-139881326-1
 lang: cs-CZ
-
+description: literatura, knihy, čtenářský deník, maturita, ústní maturita, díla
 sass:
   style: compressed

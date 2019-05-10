@@ -93,11 +93,11 @@ Er forma, vypravěč je vševědoucí.
 
     "Rozuměli jste jediné slovo?" ptal se prokurista rodičů, "snad si z
     nás nedělá blázny?" "Proboha," zvolala už matka s pláčem, "třeba je
-    těžce nemocen a my ho tu trápíme. Markétko\!
+    těžce nemocen a my ho tu trápíme. Markétko!
 
 **Vnitřní monology Řehoře**
 
-    Ach bože, pomyslel si, jaké jsem si to vybral namáhavé povolání\!
+    Ach bože, pomyslel si, jaké jsem si to vybral namáhavé povolání!
 
 **Pásmo vypravěče v er formě:**
 
@@ -114,11 +114,11 @@ prostý.
 
 #### Tropy a figury a jejich funkce výňatku
 
-**Eufemismus** (\* tropy): z chřípí mu slabě unikl dech
+**Eufemismus** (* tropy): z chřípí mu slabě unikl dech
 
-**Hyperbola** (\* tropy): s největší rychlostí bouchl dveřmi
+**Hyperbola** (* tropy): s největší rychlostí bouchl dveřmi
 
-**Řečnická otázka** (figury): A teď?
+**Řečnická otázka** (* figury): A teď?
 
 ## Literárnéhistorický konext
 
