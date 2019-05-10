@@ -7,7 +7,7 @@ layout: template
 
 Tuto stránku spravuje maturant spolu s dalšími jeho spřízněnými dušemi, které chtějí odmaturovat stejně jako ty!
 
-<div style="text-align: center;"><img src="assets/img/i-want-you.jpg"></div>
+<div style="text-align: center;"><img src="assets/img/i-want-you.jpg" alt="I WANT YOU"></div>
 
 ### I ️️(❤️) TY můžeš příspět!
 
