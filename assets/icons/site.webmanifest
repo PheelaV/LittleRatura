@@ -1,0 +1,20 @@
+{
+  "name": "LittleRatura",
+  "short_name": "LittleRatura",
+  "icons": [
+    {
+      "src": "/assets/icons/android-chrome-192x192.png?v=LbyQROw6dJ",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/android-chrome-384x384.png?v=LbyQROw6dJ",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#fbfbfb",
+  "background_color": "#fbfbfb",
+  "start_url": "https://littleratura.cz",
+  "display": "standalone"
+}
