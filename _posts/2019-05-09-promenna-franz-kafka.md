@@ -73,13 +73,16 @@ Er forma, vypravěč je vševědoucí.
 #### Vyprávěcí způsoby
 
 **Polopřímá řeč**
+
     Ačkoli si Řehoř znovu a znovu říkal, že se přece neděje nic
     mimořádného, že jenom....
 
 **Přímá řeč**
+
     "Ano, ano, děkuji maminko, už vstávám."
 
 **Nevlastní přímá řeč**
+
     Když už pracovaly jistě čtvrt hodiny, řekla matka, že by se prádelník
     přece jen měl nechat, kde je, poněvadž za prvé je příliš těžký,
     nebudou hotovy…
