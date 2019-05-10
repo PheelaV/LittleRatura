@@ -17,6 +17,7 @@ Get-ChildItem ./queue/ | ForEach-Object {
         "layout: post",
         "tags: []",
         $("pageDownload: " + $pageDownload),
+        "description: | čtenářský deník",
         "---",
         "")
     $frontMatter + (Get-Content $postName) | Set-Content $postName

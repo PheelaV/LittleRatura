@@ -4,6 +4,7 @@ layout: post
 categories: [SV-20-21]
 tags: [John Wyndham]
 pageDownload: /docs/den-trifidu-john-wyndham.docx
+description: Den trifidů | čtenářský deník
 ---
 
 # Den trifidů | John Wyndham

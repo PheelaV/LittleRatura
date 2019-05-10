@@ -4,9 +4,10 @@ layout: post
 categories: [CZ-20-21]
 tags: [Franz Kafka]
 pageDownload: /docs/processed/promenna-franz-kafka.docx
+description: Proměna | čtenářský deník
 ---
 
-# PROMĚNA | Franz Kafka
+# Proměna | Franz Kafka
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
@@ -114,11 +115,11 @@ prostý.
 
 #### Tropy a figury a jejich funkce výňatku
 
-**Eufemismus** (* tropy): z chřípí mu slabě unikl dech
+**Eufemismus** (\* tropy): z chřípí mu slabě unikl dech
 
-**Hyperbola** (* tropy): s největší rychlostí bouchl dveřmi
+**Hyperbola** (\* tropy): s největší rychlostí bouchl dveřmi
 
-**Řečnická otázka** (* figury): A teď?
+**Řečnická otázka** (\* figury): A teď?
 
 ## Literárnéhistorický konext
 
@@ -143,8 +144,9 @@ Počátek 20. století, patřil do pražského vnitřního kruhu **německých**
 autorů společně s Oskarem Bauem a Felixem Weltischem.
 
 **Amerika**
+
 - Ernest Hemingway (Komu Zvoní Hrana), ztracená generace
-**Německo**
+  **Německo**
 - Erich Maria Remarque (Na Západní Frontě Klid)
 
 a další.

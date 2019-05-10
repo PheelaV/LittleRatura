@@ -4,6 +4,7 @@ layout: post
 categories: [SV-20-21]
 tags: [Antoine de Saint-Exupéry]
 pageDownload: /docs/processed/maly-princ-antoine-de-saint-exupery.docx
+description: Malý Princ | čtenářský deník
 ---
 
 Malý princ
