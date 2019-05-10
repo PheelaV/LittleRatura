@@ -1,7 +1,7 @@
 ---
 title: LittleRatura
 layout: template
-description: literatura, knihy, čtenářský deník, maturita, ústní maturita, díla
+description: Zpracovaná literární díla k maturitě
 ---
 
 # Vítej

@@ -1,5 +1,5 @@
 ---
-title: Den trifidů
+title: Den Trifidů
 layout: post
 categories: [SV-20-21]
 tags: [John Wyndham]
