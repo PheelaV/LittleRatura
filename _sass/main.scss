@@ -30,6 +30,11 @@
   align-items: baseline;
 }
 
+footer {
+  display: flex;
+  align-items: center;
+}
+
 @media all and (max-width: 675px) {
   .post-nav {
     flex-direction: column;
