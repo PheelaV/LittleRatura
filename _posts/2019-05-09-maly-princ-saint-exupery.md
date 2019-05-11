@@ -131,9 +131,9 @@ Nebo když přemýšlí o své květině.
 
 - spisovný jazyk
 - zdrobněliny
-- metafora (\* stará opuštěná skořápka)
-- přirovnání (\* klesl pomalu, jako padá strom)
-- personifikace (\* hvězdy se tiše smějí, studna zpívá, vítr spí)
+- metafora (* stará opuštěná skořápka)
+- přirovnání (* klesl pomalu, jako padá strom)
+- personifikace (* hvězdy se tiše smějí, studna zpívá, vítr spí)
 
 #### TROPY A FIGURY A JEJICH FUNKCE VÝŇATKU
 
