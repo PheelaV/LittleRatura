@@ -69,7 +69,7 @@ Lit žánr - Román, (filozofický, pohádkový příběh)
     své okolí neustálými rozkazy.
 - **Domýšlivec**
   - Je samolibý a slyší jen samou chválu na svoji osobu.
-- Pijan
+- **Pijan**
   - Osamělý, utápí se v alkoholu, z čehož je nešťastný a proto pije
     dál. Jeho životem je pro něj alkohol.
 - **Businessman**
@@ -187,7 +187,7 @@ Do tohoto proudu spadá dále: Henri Barbusse (FR) - Oheň Romain Rolland
 Zároveň jsou zde autoři tzv. **ztracené generace** (= generačně blízká
 skupina amerických básníků a prozaiků, kteří začali tvořit ve 20. letech)
 
-**20. století **Myšlení prozaiků a básníků této skupiny bylo ovlivněno
+**20. století** Myšlení prozaiků a básníků této skupiny bylo ovlivněno
 zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do
 obyčejného života. Základní téma literárních děl této generace je
 skepse, zklamání, rozpad lidských a sociálních hodnot a hledání
@@ -217,5 +217,5 @@ generace zavedla Gertruda Steinová. Další autoři:
   - **Erich Maria Remarque** (Na západní frontě
     klid, Nebe nezná vyvolených)
 
-- ČR:
+- **ČR**:
   - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)
