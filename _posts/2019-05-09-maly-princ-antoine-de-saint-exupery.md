@@ -2,14 +2,14 @@
 title: Malý princ
 layout: post
 categories: [SV-20-21]
-tags: [Antoine de Saint-Exupéry]
-pageDownload: /docs/processed/maly-princ-antoine-de-saint-exupery.docx
+tags: [Saint-Eexupéry]
+pageDownload: /docs/processed/maly-princ-saint-exupery.docx
 description: Malý Princ | čtenářský deník
 ---
 
 Malý princ
 
-# Malý Princ | Antoine de Saint-Eexupéry
+# Malý Princ | Saint-Eexupéry
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
@@ -82,7 +82,7 @@ Lit žánr - Román, (filozofický, pohádkový příběh)
 - **Zeměpisec**
   - Sobecký, myslí si, že je nejdůležitější na světě.
 - **Liška**
-  - Modrá, přátelská, pozitivně ovlivnila myšlení mladého prince,
+  - Moudrá, přátelská, pozitivně ovlivnila myšlení mladého prince,
     pomohla mu najít skutečný smysl života (láska, přátelství),
     poprosila malého prince, aby si ji ochočil.
 - **Had**
