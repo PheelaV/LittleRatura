@@ -37,13 +37,13 @@ Drobné dějové odbočky (Sybilina rodina, Dorianovi opatrovníci)
 
 #### Literární druh a žánr
 
-#### Lit. druh: **epika** (= Má děj, příběh, určení, časové a příčinné souvislosti.)
+Lit. druh: **epika** (= Má děj, příběh, určení, časové a příčinné souvislosti.)
 
-#### Lit. žánr: **román** (= Smyšlené vyprávění. Román je co do rozsahu delší, a co do fabule a syžetu komplikovanější)
+Lit. žánr: **román** (= Smyšlené vyprávění. Román je co do rozsahu delší, a co do fabule a syžetu komplikovanější)
 
 S hovorovými prvky a faustovským tématem.
 
-#### Lit. forma: **próza** (=každý psaný text nepsaný ve verších. Jde tedy o běžnou, přirozenou formou psaného textu na rozdíl od „vázané řeči“ - poezie.)
+ Lit. forma: **próza** (=každý psaný text nepsaný ve verších. Jde tedy o běžnou, přirozenou formou psaného textu na rozdíl od „vázané řeči“ - poezie.)
 
 #### II. část
 
@@ -52,7 +52,7 @@ S hovorovými prvky a faustovským tématem.
 **Er-forma** (= vypravování ve 3. osobě, v němž tzv. autorský vypravěč
 zaujímá postoj nezaujatého pozorovatele průběhu děje.)
 
-#### Postava/Y
+#### Postava/y
 
 ##### Hlavní
 
@@ -118,37 +118,22 @@ básnické popisy přírody a interiérů, charakteristiky postav
 #### Tropy a figury a jejich funkce výňatku
 
 **Ironie** (= forma, která dosahuje zvláštní,
-často [humorný](https://cs.wikipedia.org/wiki/Humor) účinek tím, že
-vyslovuje něco podstatně jiného, než skutečně míní: může přehánět,
+často humorný účinek tím, že vyslovuje něco podstatně jiného, než skutečně míní: může přehánět,
 zastírat nebo říkat přímý opak.)
 
-**Aforismy**
-(=krátké [rčení](https://cs.wikipedia.org/wiki/R%C4%8Den%C3%AD),
-jež je svojí délkou podobné
-lidovému [pořekadlu](https://cs.wikipedia.org/wiki/Po%C5%99ekadlo),
-někdy se jedná jen o jednu jedinou větu s několika slovy nebo o
-jednoduché [souvětí](https://cs.wikipedia.org/wiki/Souv%C4%9Bt%C3%AD) či
-zajímavé [dvojverší](https://cs.wikipedia.org/wiki/Ver%C5%A1) s
-[metaforou](https://cs.wikipedia.org/wiki/Metafora).)
+**Aforismy** (=krátké rčení, jež je svojí délkou podobné lidovému pořekadlu, někdy se jedná jen o jednu jedinou větu s několika slovy nebo o jednoduché souvětí či zajímavé dvojverší s metaforou.)
 
-**Anafora** (=je [slovní
-figura](https://cs.wikipedia.org/wiki/Stylistick%C3%BD_prost%C5%99edek),
-opakování shodného slova nebo skupiny slov na začátku za sebou jdoucích
-veršů nebo vět.)
+**Anafora** (=je slovní figura, opakování shodného slova nebo skupiny slov na začátku za sebou jdoucích veršů nebo vět.)
 
-„…za to – za to bych dal všecko\!“
+> „…za to – za to bych dal všecko\!“
 
-**Synekdoch**a (= je jazyková
-či [rétorická](https://cs.wikipedia.org/wiki/R%C3%A9torika) figura,
-při níž je název celku použit pro označení části nebo naopak název části
-pro označení celku)
+**Synekdoch**a (= je jazyková či rétorická figura, při níž je název celku použit pro označení části nebo naopak název části pro označení celku)
 
-„…dal bych za to svojí vlastní duši…“
+> „…dal bych za to svojí vlastní duši…“
 
-**Přirovnání** (=  je pojmenování n a základě srovnání, podobnosti dvou
-subjektů.)
+**Přirovnání** (=  je pojmenování n a základě srovnání, podobnosti dvou subjektů.)
 
-„…příšerný jako ta nejtemnější jeskyně…“
+> „…příšerný jako ta nejtemnější jeskyně…“
 
 ## Literárnéhistorický konext
 

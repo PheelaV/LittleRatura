@@ -92,17 +92,15 @@ Er forma, vypravěč je vševědoucí.
 
 **Dialog**
 
-    "Rozuměli jste jediné slovo?" ptal se prokurista rodičů, "snad si z
-    nás nedělá blázny?" "Proboha," zvolala už matka s pláčem, "třeba je
-    těžce nemocen a my ho tu trápíme. Markétko!
+> "Rozuměli jste jediné slovo?" ptal se prokurista rodičů, "snad si z nás nedělá blázny?" "Proboha," zvolala už matka s pláčem, "třeba je těžce nemocen a my ho tu trápíme. Markétko!
 
 **Vnitřní monology Řehoře**
 
-    Ach bože, pomyslel si, jaké jsem si to vybral namáhavé povolání!
+> Ach bože, pomyslel si, jaké jsem si to vybral namáhavé povolání!
 
 **Pásmo vypravěče v er formě:**
 
-    Když si to všechno v největším spěchu rozvažoval
+> Když si to všechno v největším spěchu rozvažoval
 
 ### III. ČÁST
 
@@ -115,11 +113,17 @@ prostý.
 
 #### Tropy a figury a jejich funkce výňatku
 
-**Eufemismus** (\* tropy): z chřípí mu slabě unikl dech
+**Eufemismus** 
 
-**Hyperbola** (\* tropy): s největší rychlostí bouchl dveřmi
+> "z chřípí mu slabě unikl dech"
 
-**Řečnická otázka** (\* figury): A teď?
+**Hyperbola**
+
+> "s největší rychlostí bouchl dveřmi"
+
+**Řečnická otázka** 
+
+> "A teď?"
 
 ## Literárnéhistorický konext
 

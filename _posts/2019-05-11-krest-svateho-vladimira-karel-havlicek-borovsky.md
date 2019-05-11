@@ -112,17 +112,17 @@ Vševědoucí vypravěč
 
 **Přímá řeč**
 
-\> „Tak to chodí na to světě…“
+> „Tak to chodí na to světě…“
 
 #### Typy promluv
 
 **Pásmo vypravěče**
 
-\> „Já jsem sice při tom nebyl…“
+> „Já jsem sice při tom nebyl…“
 
 **Monolog**
 
-\> „Tak to chodí na tom světě… jak juchtové boty.“
+> „Tak to chodí na tom světě… jak juchtové boty.“
 
 #### Veršová výstavba
 
@@ -134,33 +134,33 @@ Vševědoucí vypravěč
 
 **Slova nespisovná**
 
-\> „zejtra“, „čet‘“,
+„zejtra“, „čet‘“,
 
 **Archaismy**
 
-\> „dle“, „jest“
+> „dle“, „jest“
 
 **Historismy**
 
-\> „kadidlo“, „juchtové boty“
+> „kadidlo“, „juchtové boty“
 
 #### Tropy a figury a jejich funkce výňatku
 
 **Přirovnání**
 
-\> „jako smetí“, „jako špatné zboží“
+> „jako smetí“, „jako špatné zboží“
 
 **Metafora**
 
-\> „království boží“ (taky by se dalo považovat za označení opisem)
+> „království boží“ (taky by se dalo považovat za označení opisem)
 
 **Hyperbola**
 
-\> „… koho včera oběsili, k tomu se dnes modlí.“
+> „… koho včera oběsili, k tomu se dnes modlí.“
 
 **Gradace**
 
-\> „hyne a pomine“
+> „hyne a pomine“
 
 ###
 
@@ -179,7 +179,7 @@ ironizuje moc státního aparátu, když může poroučet i bohu.
 
 Doba národního obrození, období „vlastenecké agitace“, boj proti
 germanizaci a centrálnosti Rakouska-Uherska, podpora austroslavismu
-(=myšlenka spojení všech slovanských národů v jeden mnohonárodnostní
+(= myšlenka spojení všech slovanských národů v jeden mnohonárodnostní
 stát).
 
 Další autoři tohoto období: Josef Dobrovský, Josef Jungmann, Václav
@@ -188,13 +188,10 @@ Jaromír Erben.
 
 **Ve světě například**
 
-- Stendhal (Francie) – Červený a černý;
-
-- Honoré de Balzac (taky Francie) – Lidská komedie,
-
-- Jane Austen (Anglie) – Pýcha a předsudek,
-
-- Charlotte Brontë (Anglie) – Jana Eyrová (když si odmyslíme ty
+- **Francie**
+ - Stendhal Červený a černý;
+ - Honoré de Balzac – Lidská komedie,
+- **Anglie**
+ - Jane Austen – Pýcha a předsudek,
+ - Charlotte Brontë – Jana Eyrová (když si odmyslíme ty
   romantizující prvky)
-
-####

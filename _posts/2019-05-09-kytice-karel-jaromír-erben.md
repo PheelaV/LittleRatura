@@ -56,7 +56,7 @@ obraznost nebo symbolika).)
 Er forma (= je forma vypracování ve 3. osobě, v němž tzv. autorský
 vypravěč zaujímá postoj nezaujatého pozorovatele průběhu děje.)
 
-#### Postava/Y
+#### Postava/y
 
 Erbenovi hrdinové nepředstavují romanticky rozpolcené jedince bouřící se
 vůči světu, společnosti či životu. Smířlivě přijímají svůj osud, ať je
@@ -105,36 +105,50 @@ místo sloves.
 #### Tropy a figury a jejich funkce výňatku
 
 **Elipsa** (= je vynechání části věty obsahující informaci, které je
-příjemci známa a bez níž větu dokáže pochopit. Př.: Již jedenáctá
-odbila.)
+příjemci známa a bez níž větu dokáže pochopit.)
+
+> "Již jedenáctá odbila."
 
 **Epanastrofa** (= je opakování slov nebo skupiny slov na konci a na
-začátku verše nebo věty. Př.: Boží rodičky, rodičky boží…)
+začátku verše nebo věty.)
+
+> "Boží rodičky, rodičky boží…"
 
 **Epiteton** (=je básnický přívlastek, který „výslovně pojmenovává
-vlastnost“ substantiva. Př.: A před tou mocnou světicí…)
+vlastnost“ substantiva.)
+
+> "Př.: A před tou mocnou světicí…"
 
 **Eufemismus** (= je zlehčování, zjemňování, přikrášlující pojmenování
-špatné nebo nepříjemné skutečnosti. Př.: Již na něm roste trávníček\!)
+špatné nebo nepříjemné skutečnosti.)
+
+> "Již na něm roste trávníček\!"
 
 **Metonymie** (= spočívá v přenosu označení na jiný objekt na základě
-vnitřní podobnosti. Př.: bratra mi koule zabila)
+vnitřní podobnosti.)
+
+> "bratra mi koule zabila"
 
 **Apostrofa** (= je řečnická figura, v níž se mluvčí nebo pisatel
 „obrací jinam“ než k přítomnému publiku, k nepřítomné či zemřelé
-osobě, případně oslovuje neživou věc. Př.: Maria, panno přemocná\!)
+osobě, případně oslovuje neživou věc.)
+
+> "Maria, panno přemocná\!"
 
 **Metafora** (=je jazyková a rétorická literární konstrukce spočívající
-v přenášení významu na základě vnější podobnosti. Př.: květ blaha mého
-jediný)
+v přenášení významu na základě vnější podobnosti.)
+
+> "květ blaha mého jediný"
 
 **Anafora** (= je slovní figura, opakování shodného slova nebo skupiny
-slov na začátku za sebou jdoucích veršů nebo vět. Př: A on tu napřed
-skok a skok, a ona za ním co jí krok.)
+slov na začátku za sebou jdoucích veršů nebo vět.)
+
+> "A on tu napřed skok a skok, a ona za ním co jí krok."
 
 **Epizeuxis** (= je básnická figura, která je založena na opakování
-stejného slova nebo slovních spojení za sebou v jednom verši. Př.: a
-vyli, vyli divnou věc.)
+stejného slova nebo slovních spojení za sebou v jednom verši.)
+
+> "a vyli, vyli divnou věc."
 
 ## Literárněhistorický konext
 

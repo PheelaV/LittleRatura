@@ -38,31 +38,28 @@ drama komedie
 
 #### Postava/Y
 
-- Hlavní
+##### Hlavní
 
-  - Harpagon – vdovec, lichvář, chamtivý, lakomý, vše obětuje pro
-    peníze – záporná postava (ale tragikomická)
+  - Harpagon
+   - vdovec, lichvář, chamtivý, lakomý, vše obětuje pro peníze 
+   - záporná postava (ale tragikomická)
+  - Elisa/Eliška
+   - upřímná, spravedlivá, miluje Valéra, tajné zasnoubení
+  - Kleantes 
+   - chytrý, podnikavý, vadí mu otcovo chování, miluje Marianu a chce si ji vzít
+  - Valér 
+   -Anselmův syn, miluje Elisu, snaží se získat Harpagonovu přízeň, aby si ji mohl vzít
 
-  - Elisa/Eliška – upřímná, spravedlivá, miluje Valéra, tajné
-    zasnoubení
+##### Vedlejší
 
-  - Kleantes – chytrý, podnikavý, vadí mu otcovo chování, miluje
-    Marianu a chce si ji vzít
-
-  - Valér – Anselmův syn, miluje Elisu, snaží se získat Harpagonovu
-    přízeň, aby si ji mohl vzít
-
-- Vedlejší
-
-  - Mariana – chudá dívka, stará se o matku, chce si ji vzít
-    Kleantes i Harpagon
-
-  - Anselm – bohatý muž, Harpagon by chtěl, aby si vzal Elisu
-
-  - La Flèche/Čipera/Štika – Kleantův sluha, udělal by pro něj
-    všechno, vzal peníze
-
-  - Frosina – dohazovačka, manipulátorka
+- Mariana 
+  - chudá dívka, stará se o matku, chce si ji vzít Kleantes i Harpagon
+- Anselm 
+  - bohatý muž, Harpagon by chtěl, aby si vzal Elisu
+- La Flèche/Čipera/Štika 
+  - Kleantův sluha, udělal by pro něj všechno, vzal peníze
+- Frosina
+  - dohazovačka, manipulátorka
 
 #### Vyprávěcí způsoby
 
@@ -70,8 +67,6 @@ převážně dialogy, monology
 
 > „Peníze, mé penízky…“ – Harpagon
 
-- -
--
 
 #### Typy promluv
 
@@ -89,19 +84,19 @@ Ostatní – hovorový, i vulgarismy
 
 **Symbol**
 
-„Srdce mé…“
+> „Srdce mé…“
 
 **Personifikace**
 
-„…vyrval život můj zuřivosti vln…“
+> „…vyrval život můj zuřivosti vln…“
 
 **Epiteton constans**
 
-„…plamenné lásky…“
+> „…plamenné lásky…“
 
 **Anafora**
 
-„… jako já; a já…“
+> „…jako já; a já…“
 
 Tropy barvitěji popisují situaci, ukazují, jak postava rozhovor prožívá.
 

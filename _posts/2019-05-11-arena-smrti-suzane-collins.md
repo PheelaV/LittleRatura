@@ -8,6 +8,7 @@ pageDownload: /docs/processed/arena-smrti-suzane-collins.docx
 description: Aréna smrti | čtenářský deník
 ---
 
+
 # Aréna smrti | Suzane Collins
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
@@ -76,7 +77,7 @@ jedné z postav
 
 ##### Vedlejší
 
-- **Haymith Abernathy** - Je muž středního věku, který vyhrál 50.
+ - **Haymith Abernathy** - Je muž středního věku, který vyhrál 50.
   ročník Hladových her. Výhra mu zajistila dobré živobytí. Jako
   jediný přeživsí z 12. kraje se z něj stává mentor Katniss a Peeta.
   Často sarkasticky , nikdy zcela ztřízlivý – to Katniss rozčiluje.
@@ -97,11 +98,10 @@ jedné z postav
 #### Vyporávěcí způsoby
 
 **Vypravování** (=Podstatou vypravování je
-převyprávění [příběhu](https://cs.wikipedia.org/wiki/P%C5%99%C3%ADb%C4%9Bh),
+převyprávění příběhu,
 vyprávění má děj. Soustřeďte se pouze na jednu dějovou linii, jedno
 místo nebo postavu. Vypravování může být v
-mnoha [žánrech](https://cs.wikipedia.org/wiki/%C5%BD%C3%A1nr) například [pověst](https://cs.wikipedia.org/wiki/Pov%C4%9Bst), [pohádka](https://cs.wikipedia.org/wiki/Poh%C3%A1dka), [horor](https://cs.wikipedia.org/wiki/Horor), [fantasy](https://cs.wikipedia.org/wiki/Fantasy), [sci-fi](https://cs.wikipedia.org/wiki/Science_fiction), [detektivní
-román](https://cs.wikipedia.org/wiki/Detektivn%C3%AD_rom%C3%A1n), [humoristická](https://cs.wikipedia.org/wiki/Humor) povídka,
+mnoha žánrech například pověst, pohádka, horor, fantasy, sci-fi, detektivní román, humoristická povídka,
 atd. Vypravování může být skutečná nebo vymyšlená událost. Vypravování
 může obsahovat přímou řeč.)
 
@@ -120,8 +120,9 @@ zde objevují **anglické názvy**.
 #### Tropy a figury a jejich funkce výňatku
 
 **Apoziopeze** (= je literární pojem označující nenadálé odmlčení,
-nedopovědění započaté věty či přerušenou výpověď. př.: Měla jsi červené
-šaty a vlasy...ve dvou copech místo jednoho.)
+nedopovědění započaté věty či přerušenou výpověď. )
+
+> "Měla jsi červené šaty a vlasy...ve dvou copech místo jednoho."
 
 ## Literárnéhistorický konext
 
@@ -164,7 +165,7 @@ vzdálená, nebo bližší přítomnosti.
 
 ##### 5 autorů a díla té doby:
 
-**J.R.R.Tolkien – Hobit aneb cesta tam a zase zpátky** (příběh o usedlém
+**J.R.R.Tolkien – Hobit aneb cesta tam a zase zpátky**: (příběh o usedlém
 a požitkářském hobitovi jménem Bilbo, jehož život jednoho dne rozvrátí
 kouzelník Gandalf. Spolu s družinou trpaslíků ho pošle na výpravu, na
 níž pohodlného Bilba čeká to, čeho by se dobrovolně nikdy nezúčastnil:
@@ -174,7 +175,7 @@ bohatství, kterým bude udivovat sousedy, ale k vlastnímu překvapení
 dokáže všem, že není takový budižkničemu – zachrání své druhy, unikne
 krvežíznivým nepřátelům, oklame draka a dokonce zažehná hrozící válku.)
 
-**John Wydhman – Den** **trifidů** (Záhadný roj meteoritů, se kterými se
+**John Wydhman – Den** **trifidů**: (Záhadný roj meteoritů, se kterými se
 Země setkala na své oběžné dráze, způsobí všem, kdo tuto podívanou
 sledovali oslepnutí. Stejně jako Williamovi tak i ostatním lidem, kteří
 vidí, zachránila zrak nějaká náhoda. William tu noc ležel již týden
@@ -184,23 +185,23 @@ do očí. Jeho přítel a spolupracovník mu okamžitě píchl protijed a odvezl
 ho do nemocnice. Díky kvalitní práci lékařů zůstal zrak bez trvalého
 poškození.)
 
-**J.K.Rowlingová – Harry** **Potter** ( zachycují dobrodružství mladého
+**J.K.Rowlingová – Harry** **Potter**: zachycují dobrodružství mladého
 čaroděje,Harryho Pottera, a jeho přátel, Ronalda Weasleyho a Hermiony
 Grangerové, kteří všichni studují na Škole čar a kouzel v Bradavicích.
 Hlavním tématem příběhu je Harryho souboj s černokněžníkem Lordem
 Voldemortem, jehož cílem je dosažení vlastní nesmrtelnosti, dobytí
 čarodějnického světa, podmanění nekouzelníků a zničení všech, kdo mu
-stojí v cestě, zejména pak samotného Harryho Pottera.)
+stojí v cestě, zejména pak samotného Harryho Pottera.
 
-**Drew Karpyshyn – Star Wars – Cesta zpátky** (Dessel pracuje jako
+**Drew Karpyshyn – Star Wars – Cesta zpátky**: Dessel pracuje jako
 prostý horník v cortosisových dolech. Protože ho pronásledují
 nenávidění republikoví vojáci, nechá se naverbovat do sithské armády,
 v jejíchž řadách se zúčastní krvavých bojů proti Republice a Jediům.
 Díky svým výjimečným vůdčím schopnostem, lstivosti a brutalitě si brzy
 získá pověst vynikajícího vojáka. Jeho nadřízení s ním však mají ještě
-daleko větší plány.)
+daleko větší plány.
 
-**George R. R. Martin – Hra o trůny** (Úvodní část epického fantasy
+**George R. R. Martin – Hra o trůny**: Úvodní část epického fantasy
 eposu odehrávajícího se ve světě temného středověku, mezi statečnými
 rytíři, mocnými čaroději, draky, zlovlky a čarostromy. Jako strážce
 severu lord Stark považuje za prokletí, když ho král Robert pověří

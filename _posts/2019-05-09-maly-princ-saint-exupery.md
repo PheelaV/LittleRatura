@@ -100,30 +100,23 @@ zbytek je v er-formě (vyprávění malého prince)
 
 **Často přímá řeč**
 
-    Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je
-    tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji
-    chránily proti světu...“
+> Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
 
 **Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
 
-    Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s
-    kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc
-    malá. Není tam místo pro dva...
+> Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
 
 **Vnitřní monology**
-"Dospělí jsou hrozně zvláštní, pomyslel si cestou
-malý princ."
+> "Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ."
 Nebo když přemýšlí o své květině.
 
 **Dialogy**, které vedou často k zamyšlení
 
-    „Hvězdy jsou krásné, protože je na nich květina, kterou není
-    vidět...“
+> „Hvězdy jsou krásné, protože je na nich květina, kterou není vidět...“
 
-    „Ano, jistě,“ řekl jsem a mlčky jsem pozoroval vlny v písku ve
-    svitu měsíce.
+> „Ano, jistě,“ řekl jsem a mlčky jsem pozoroval vlny v písku ve svitu měsíce.
 
-    „Poušť je krásná...,“ dodal.
+> „Poušť je krásná...,“ dodal.
 
 ### III. ČÁST
 
@@ -217,5 +210,5 @@ generace zavedla Gertruda Steinová. Další autoři:
   - **Erich Maria Remarque** (Na západní frontě
     klid, Nebe nezná vyvolených)
 
-- **ČR**:
+- **Česko**:
   - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)

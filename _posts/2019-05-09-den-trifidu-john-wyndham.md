@@ -36,9 +36,9 @@ tak jak jdou za sebou z minulosti až po současnost.
 
 #### Literární druh a žánr
 
-Druh: Epika – dílo má děj
+Lit. druh: epika – dílo má děj
 
-Žánr: Román – dílo je poměrně rozsáhlé
+Lit. žánr: román – dílo je poměrně rozsáhlé
 
 ### II. část
 
@@ -50,70 +50,57 @@ hlavní postavou příběhu.
 
 #### Postavy
 
-- Hlavní
+##### Hlavní
 
-  - **William (Bill) Masen**
+- **William (Bill) Masen**
+  - Hlavní postava, mladý Angličan, 29 let, který jak sám řekl,
+    měl prostě štěstí. Postava není ničím speciální. Z počátku
+    příběhu chemik, později také biolog samouk. Skeptický vůči
+    trifidům již od samého začátku, v očích ostatních
+    paranoidní. Zamiluje se do Josely, vychovají jedno a
+    započnou druhé dítě.
 
-    - Hlavní postava, mladý Angličan, 29 let, který jak sám řekl,
-      měl prostě štěstí. Postava není ničím speciální. Z počátku
-      příběhu chemik, později také biolog samouk. Skeptický vůči
-      trifidům již od samého začátku, v očích ostatních
-      paranoidní. Zamiluje se do Josely, vychovají jedno a
-      započnou druhé dítě.
+##### Vedlejší
 
-- Vedlejší
-
-  - **Josella Playtonova**
-
-    - Z počátku Billova společnice, později jeho milenka, a
-      nakonec formálně také jeho žena. S Billem zplodí jedno dítě
-      Je popisována jako překrásná, těžko se loučí s domovem tak
-      jak ho znala, přizpůsobuje se osudu.
-
-  - **Coker**
-
-    - Duší vášnivý řečník, zastává se slepců a naivně se jim
-      z počátku snaží pomoci. Jeho plány nevyhnutelně
-      ztroskotali. Odhodlaný, nezdolný, přátelský, tvrdohlavý.
-
-  - **Susan**
-
-    - Opuštěné dítě, kterého se Susan a Bill ujali. Společně
-      s nimi stráví. Bojácná, stýská se ji, později bojovná a
-      vychová si nenávistný vztah vůči trifidům.
-
-  - **Beadley**
-
-    - Vůdce skupiny, která racionálním myšlenkovým postupem
-      zavrhla tradiční myšlenky ve prospěch přežití.
-
-  - **Florence Durrantová**
-
-    - Vůdkyně alternativní skupiny, která vyznává tradiční
-      hodnoty. Jejich skupinu zdolá mor.
+- **Josella Playtonova**
+  - Z počátku Billova společnice, později jeho milenka, a
+    nakonec formálně také jeho žena. S Billem zplodí jedno dítě
+    Je popisována jako překrásná, těžko se loučí s domovem tak
+    jak ho znala, přizpůsobuje se osudu.
+- **Coker**
+  - Duší vášnivý řečník, zastává se slepců a naivně se jim
+    z počátku snaží pomoci. Jeho plány nevyhnutelně
+    ztroskotali. Odhodlaný, nezdolný, přátelský, tvrdohlavý.
+- **Susan**
+  - Opuštěné dítě, kterého se Susan a Bill ujali. Společně
+    s nimi stráví. Bojácná, stýská se ji, později bojovná a
+    vychová si nenávistný vztah vůči trifidům.
+- **Beadley**
+  - Vůdce skupiny, která racionálním myšlenkovým postupem
+    zavrhla tradiční myšlenky ve prospěch přežití.
+- **Florence Durrantová**
+  - Vůdkyně alternativní skupiny, která vyznává tradiční
+    hodnoty. Jejich skupinu zdolá mor.
 
 #### Vyprávěcí způsoby
 
-> Přímá řeč
->
-> „Vopiju\! A co má sakra bejt? Dyť já už jsem, sakra vožralej,“ řekl
-> opovržlivě.
->
-> Nepřímá řeč
->
-> Dal jsem Cokerovi znamení, aby zastavil, a když jsem k ní dojel,
-> zavolal jsem na ni.
->
-> Polopřímá řeč – vnitřní monolog
->
+**Přímá řeč**
+
+> „Vopiju! A co má sakra bejt? Dyť já už jsem, sakra vožralej,“ řekl opovržlivě.
+
+**Nepřímá řeč**
+
+> "Dal jsem Cokerovi znamení, aby zastavil, a když jsem k ní dojel, zavolal jsem na ni."
+
+**Polopřímá řeč** – vnitřní monolog
+
 > „Musíš se obrnit hroší kůží,“ řekl jsem si.
 
 #### Typy promluv
 
-**monolog** – souvislá a nepřerušovaná promluva jedné postavy, není
-součástí dialogu
+**Monolog** (= souvislá a nepřerušovaná promluva jedné postavy, není součástí dialogu)
 
-**dialog** – promluva dvou a více postav; rozhovor
+**Dialog**  (= promluva dvou a více postav; rozhovor)
 
 ### III. ČÁST
 

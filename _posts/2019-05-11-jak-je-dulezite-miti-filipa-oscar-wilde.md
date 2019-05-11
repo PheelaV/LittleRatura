@@ -36,7 +36,7 @@ Konverzační komedie
 
 #### Vypravěč/lyrický subject: není
 
-#### Postava/Y
+#### Postava/y
 
 \- nejsou ani kladné ani záporné
 
@@ -101,18 +101,17 @@ převládají dialogy, souvětí, hry se slovy
 **Zdvořilý**, **spisovný** jakzyk; **zdrobněliny** naznačující blízký
 vztah postav
 
-Jack: „Ano, a je to roztomilá, stará dáma. Bydlí v Tunbridge Wells. Tak
-mi to vrať, Algy\! „
+> Jack: „Ano, a je to roztomilá, stará dáma. Bydlí v Tunbridge Wells. Tak mi to vrať, Algy! „
 
 #### Tropy a figury a jejich funkce výňatku
 
-**apostrofa**
+**Apostrofa**
 
-„Pro Pána na nebi, vrať mi mé pouzdro na cigarety. „
+> „Pro Pána na nebi, vrať mi mé pouzdro na cigarety. „
 
-**aliterace**
+**Aliterace**
 
-„Tvoje teta\!“
+> „Tvoje teta!“
 
 ## Literárnéhistorický konext
 
@@ -135,4 +134,3 @@ Paul Verlaine (**Francie**) – Prokletí básníci
 
 Arnošt Procházka (**ČR**)
 
-####
