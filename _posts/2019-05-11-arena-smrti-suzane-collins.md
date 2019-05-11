@@ -1,6 +1,6 @@
 ---
 #see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
-title: title
+title: Aréna smrti
 categories: [SV-20-21]
 layout: post
 tags: [Suzane Collins]

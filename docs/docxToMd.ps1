@@ -14,6 +14,7 @@ Get-ChildItem ./queue/ | ForEach-Object {
         "---",
         "#see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books",
         "title: title",
+        "categories: [SV-CZ-18]",
         "layout: post",
         "tags: []",
         $("pageDownload: " + $pageDownload),

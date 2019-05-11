@@ -1,6 +1,6 @@
 ---
 #see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
-title: title
+title: Jak je důležité míti Filipa
 categories: [SV-CZ-18]
 layout: post
 tags: [Oscar Wilde]
