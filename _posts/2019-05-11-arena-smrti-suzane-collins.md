@@ -1,6 +1,7 @@
 ---
 #see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
 title: title
+categories: [SV-20-21]
 layout: post
 tags: [Suzane Collins]
 pageDownload: /docs/processed/arena-smrti-suzane-collins.docx

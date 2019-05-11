@@ -1,6 +1,7 @@
 ---
 #see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
 title: title
+categories: [SV-CZ-18]
 layout: post
 tags: [Moliére]
 pageDownload: /docs/processed/lakomec-moliere.docx
