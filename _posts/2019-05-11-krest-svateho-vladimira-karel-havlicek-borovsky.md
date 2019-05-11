@@ -1,11 +1,11 @@
 ---
 #see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
-title: title
-categories: [SV-CZ-18]
+title: Křest svatého Vladimíra
+categories: [SV-CZ-19]
 layout: post
-tags: []
+tags: [Karel Havlíček Borovský]
 pageDownload: /docs/processed/krest-svateho-vladimira-karel-havlicek-borovsky.docx
-description: | čtenářský deník
+description: Křest svatého Vladimíra | čtenářský deník
 ---
 
 # Křest svatého Vladimíra | Karel Havlíček Borovský
@@ -92,21 +92,21 @@ Vševědoucí vypravěč
 
 ##### Hlavní
 
-  - Perun – bůh, cítí se nedoceněně, od rány
+- Perun – bůh, cítí se nedoceněně, od rány
 
-  - Car – namyšlený, entitled, mstivý, trochu slaboch
+- Car – namyšlený, entitled, mstivý, trochu slaboch
 
-  - Perunice – manželka Peruna, hádavá
+- Perunice – manželka Peruna, hádavá
 
 ##### Vedlejší
 
-  - Dráb – nevím, prostě existuje
+- Dráb – nevím, prostě existuje
 
-  - Děvečka – taky
+- Děvečka – taky
 
-  - Novinář – protirežimní, odsoudí ho ke stejnému trestu jako Peruna
+- Novinář – protirežimní, odsoudí ho ke stejnému trestu jako Peruna
 
-  - Ministři – každý hájí vlastní zájmy
+- Ministři – každý hájí vlastní zájmy
 
 #### Vyprávěcí způsoby
 
@@ -162,7 +162,7 @@ Vševědoucí vypravěč
 
 \> „hyne a pomine“
 
-### 
+###
 
 ## Literárnéhistorický konext
 
@@ -188,13 +188,13 @@ Jaromír Erben.
 
 **Ve světě například**
 
-  - Stendhal (Francie) – Červený a černý;
+- Stendhal (Francie) – Červený a černý;
 
-  - Honoré de Balzac (taky Francie) – Lidská komedie,
+- Honoré de Balzac (taky Francie) – Lidská komedie,
 
-  - Jane Austen (Anglie) – Pýcha a předsudek,
+- Jane Austen (Anglie) – Pýcha a předsudek,
 
-  - Charlotte Brontë (Anglie) – Jana Eyrová (když si odmyslíme ty
-    romantizující prvky)
+- Charlotte Brontë (Anglie) – Jana Eyrová (když si odmyslíme ty
+  romantizující prvky)
 
 ####
