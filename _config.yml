@@ -7,10 +7,7 @@ logo: /assets/icons/android-chrome-384x384.png
 google_analytics: UA-139881326-1
 webmaster_verifications:
   google: AO_9X77-ScHKyfhFf_qxaTJ0L7vAaKpx_SeZ5bxOj3c
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
+  bing: 1388D3CCE1C37EE442FF30B96902D683
 
 plugins:
   - jekyll-sitemap
