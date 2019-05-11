@@ -3,5 +3,15 @@ theme: jekyll-theme-cayman
 google_analytics: UA-139881326-1
 lang: cs-CZ
 description: literatura, knihy, čtenářský deník, maturita, ústní maturita, díla
+logo: /assets/icons/android-chrome-384x384.png
 sass:
   style: compressed
+
+webmaster_verifications:
+  google: AO_9X77-ScHKyfhFf_qxaTJ0L7vAaKpx_SeZ5bxOj3c
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
+  plugins:
+    - jekyll-sitemap
