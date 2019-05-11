@@ -16,7 +16,7 @@ description: Aréna smrti | čtenářský deník
 
 #### Téma a motiv
 
-Tématem tohoto **dobrodružného románu** je ukázat čtenářovy, jak si
+Tématem tohoto **dobrodružného románu** je ukázat čtenářovi, jak si
 autorka představuje smyšlenou budoucnost okolo nás. Jelikož se jedná o
 dílo z 21. století, má opravdu velký úspěch.
 
