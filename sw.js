@@ -4,7 +4,7 @@ layout: null
 //bait jekyll
 
 var APP_PREFIX = 'LittleRatura'; // Identifier for this app (this needs to be consistent across every cache update)
-var VERSION = {{ site.github.build_revision }}; // Version of the off-line cache (change this value everytime you want to update cache)
+var VERSION = '{{ site.github.build_revision }}'; // Version of the off-line cache (change this value everytime you want to update cache)
 var CACHE_NAME = APP_PREFIX + VERSION;
 var urlsToCache  = [
 
