@@ -30,7 +30,7 @@ description: <book name> | čtenářský deník
 1. make sure that the document name is in lowercase separated by '-'
 1. fill queue folder with the docx documents
 1. execute **docxToMd.ps1**
-1. the document has been moved to /docs/processed and a MD file with a FrontMatter header has been generated
+1. the document has been moved to /docs/processed and a MD file with a FrontMatter header has been generated in /_posts
 1. fill in the header and you are good to go
 
 # Welcome to GitHub Pages
