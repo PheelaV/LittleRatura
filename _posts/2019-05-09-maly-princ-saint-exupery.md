@@ -34,7 +34,7 @@ Na začátku je věnování jeho příteli Leónu Werthovi.
 
 #### LITERÁRNÍ DRUH A ŽÁNR
 
-Lit. druh -Epika(próza) s lyrickými pasážemi
+Lit. druh -Epika(próza)
 Lit žánr - Román, (filozofický, pohádkový příběh)
 
 ### II. ČÁST
