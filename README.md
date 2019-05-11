@@ -2,15 +2,19 @@
 
 1. Use MD posting [template](https://github.com/Feelav/LittleRatura/blob/master/docs/templates/md.md) or use DOCX posting [template](https://github.com/Feelav/LittleRatura/blob/master/docs/templates/word.docx) and either contact the [administrator](mailto:vlcekfilip@pheela.tech) or convert it to MD by your self using the ps1 script in docs
 1. Only use formating that is already existing in the templates
-1. Never forget to include an apropriate header - example is down below
+1. Never forget to include an apropriate header if submitting a MD file - example is down below
 1. If the category or authors name is already used in the category or tag block, use the existing one
 
+
+**FtontMatter header:**
 ```
 ---
 title: <book name>
 layout: post
 categories: [SV-20-21|SV-CZ-19|SV-20-21|CZ-20-21]
 tags: [<author name>]
+pageDownload: /docs/processed/<document name>.docx
+description: <book name> | čtenářský deník
 ---
 ```
 
@@ -24,9 +28,10 @@ tags: [<author name>]
 ### steps:
 
 1. make sure that the document name is in lowercase separated by '-'
-1. fill queue folder with docx documents
+1. fill queue folder with the docx documents
 1. execute **docxToMd.ps1**
-1. that is all
+1. the document has been moved to /docs/processed and a MD file with a FrontMatter header has been generated
+1. fill in the header and you are good to go
 
 # Welcome to GitHub Pages
 
