@@ -1,17 +1,19 @@
 theme: jekyll-theme-cayman
-# permalink: /LittleRatura/:categories/:year/:month/:day/:title/
-google_analytics: UA-139881326-1
 lang: cs-CZ
+url: https://littleratura.cz
 description: literatura, knihy, čtenářský deník, maturita, ústní maturita, díla
 logo: /assets/icons/android-chrome-384x384.png
-sass:
-  style: compressed
 
+google_analytics: UA-139881326-1
 webmaster_verifications:
   google: AO_9X77-ScHKyfhFf_qxaTJ0L7vAaKpx_SeZ5bxOj3c
   bing: 1234
   alexa: 1234
   yandex: 1234
   baidu: 1234
-  plugins:
-    - jekyll-sitemap
+
+plugins:
+  - jekyll-sitemap
+
+sass:
+  style: compressed
