@@ -11,6 +11,11 @@
       "src": "/assets/icons/android-chrome-384x384.png?v=LbyQROw6dJ",
       "sizes": "384x384",
       "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/android-chrome-512x512.png?v=LbyQROw6dJ",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "theme_color": "#fbfbfb",
