@@ -125,13 +125,16 @@ Obsah dialogů vtipně vystihuje charakter a myšlení protagonistů. Slova
 jsou
 
 **stylově neutrální i zabarvená**  
-„mrcha“, „křupan“, „husa“
+
+> „mrcha“, „křupan“, „husa“
 
 **Přirovnání**  
-„zavřu tě, až budeš černý“
 
-**Metafora  
-**„v žilách oheň, mráz“
+> „zavřu tě, až budeš černý“
+
+**Metafora**
+
+> „v žilách oheň, mráz“
 
 #### Tropy a figury a jejich funkce výňatku
 
@@ -190,11 +193,9 @@ dokonalá společnost. 
 
 **Zástupci tohoto směru:**
 
-Ivan Alexandrovič Gončarov
-
-Ivan Sergejevič Turgeněv
-
-Lev Nikolajevič Tolstoj
+- Ivan Alexandrovič Gončarov
+- Ivan Sergejevič Turgeněv
+- Lev Nikolajevič Tolstoj
 
 Autoři v této době se zabývali především hlubšími analýzy člověka, což
 bylo málo čtivé pro čtenáře, jdoucí po zápletce.
