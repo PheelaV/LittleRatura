@@ -57,25 +57,25 @@ Osobní vypravěč
 ##### Hlavní
 
 - Vypravěč
- - nemá jméno, je to docela suchar, líbí se mu slečna Barbora    
- - ve filmu jméno má – pozor na rozdíl od knižního zpracování-Jiří Oulický
+  - nemá jméno, je to docela suchar, líbí se mu slečna Barbora    
+  - ve filmu jméno má – pozor na rozdíl od knižního zpracování-Jiří Oulický
 - Saturnin    
- - velmi kreativní člověk, nízká tolerance stupidity, je oddaný svému pánovi, výstřední, vynalézavý a nápaditý, na všechny situace mí své vlastní, originální řešení
+  - velmi kreativní člověk, nízká tolerance stupidity, je oddaný svému pánovi, výstřední, vynalézavý a nápaditý, na všechny situace mí své vlastní, originální řešení
 - Slečna Barbora    
   - krásná, cílevědomá, odvážná, hraje tenis, umí se dobře přizpůsobit dané situaci a je pro každou legraci, pro každé dobrodružství
 - Dědeček    
- - bohatý, má rád vypravěče, chce mu přenechat své dědictví, nadšenec do elektřiny, oblíbí si Saturnina, baví ho, že se veškeré příbuzenstvo snaží získat jeho majetek 
+  - bohatý, má rád vypravěče, chce mu přenechat své dědictví, nadšenec do elektřiny, oblíbí si Saturnina, baví ho, že se veškeré příbuzenstvo snaží získat jeho majetek 
 - Teta Kateřina
- - vdova, chce získat dědečkovo dědictví, je ochotná pro dosažení jejího cíle vykonat i nemorální činy, neustále říká přísloví, myslí si, že jsou na ni všichni zvědaví
+  - vdova, chce získat dědečkovo dědictví, je ochotná pro dosažení jejího cíle vykonat i nemorální činy, neustále říká přísloví, myslí si, že jsou na ni všichni zvědaví
 
 ##### Vedlejší
 
 - Milouš
- - kouří, myslí si o sobě, že je superbalič, syn tety Kateřiny
+  - kouří, myslí si o sobě, že je superbalič, syn tety Kateřiny
 - Doktor Vlach
- - sarkastický, baví ho Saturnin, vymýšlí teorie o chování lidí a pak je všem říká
+  - sarkastický, baví ho Saturnin, vymýšlí teorie o chování lidí a pak je všem říká
 - Strýc František
- - manžel tety Kateřiny, umřel 10 let před dějem knihy, měl továrnu na čistící prostředky, chtěl udělat zázračné mýdlo, ale vůbec tomu nerozuměl, po jeho smrti Kateřina peníze rozházela
+  - manžel tety Kateřiny, umřel 10 let před dějem knihy, měl továrnu na čistící prostředky, chtěl udělat zázračné mýdlo, ale vůbec tomu nerozuměl, po jeho smrti Kateřina peníze rozházela
 
 #### Vyprávěcí způsoby
 
