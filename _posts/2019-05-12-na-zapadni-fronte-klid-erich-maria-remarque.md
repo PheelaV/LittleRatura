@@ -1,11 +1,11 @@
 ---
 #see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
-title: Na Základní Frontě Klid
+title: Na Západní Frontě Klid
 categories: [SV-20-21]
 layout: post
 tags: [Erich Maria Remarque]
 pageDownload: /docs/processed/na-zapadni-fronte-klid-erich-maria-remarque.docx
-description: Na Základní Frontě Klid | čtenářský deník
+description: Na Západní Frontě Klid | čtenářský deník
 ---
 
 # Na Západní Frontě Klid | Erich Maria Remarque
