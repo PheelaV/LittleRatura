@@ -57,10 +57,10 @@ v tento moment končí
 #### Literární druh a žánr
 
 Lit. druh: **drama** (= Příběh se vypráví
-pomocí [dialogů](https://cs.wikipedia.org/wiki/Dialog) a [monologů](https://cs.wikipedia.org/wiki/Monolog).)
+pomocí dialogů a monologů.)
 
 Lit. žánr: **komedie**
-(= [Literární](https://cs.wikipedia.org/wiki/Literatura) nebo [dramatický](https://cs.wikipedia.org/wiki/Drama) útvar,
+(= Literární nebo dramatický útvar,
 který vždy skončí šťastně)
 
 ### II. část
@@ -107,15 +107,7 @@ chování.
 **Dialogy** (= [rozhovor](https://cs.wikipedia.org/wiki/Rozhovor) dvou
 nebo více osob)
 
-**Přímé řeči** (= [literární
-figura](https://cs.wikipedia.org/w/index.php?title=Liter%C3%A1rn%C3%AD_figura&action=edit&redlink=1),
-kterou tvoří jedna nebo
-několik [vět](https://cs.wikipedia.org/wiki/V%C4%9Bta_\(lingvistika\)) vložených
-do [vyprávění](https://cs.wikipedia.org/w/index.php?title=Vypravov%C3%A1n%C3%AD&action=edit&redlink=1) jako
-doslovný [citát](https://cs.wikipedia.org/wiki/Cit%C3%A1t) jiné [osoby](https://cs.wikipedia.org/wiki/Osoba),
-než je vypravěč. Je uzavřena
-v [uvozovkách](https://cs.wikipedia.org/wiki/Uvozovky) a může být
-doprovozena uvozovací větou.)
+**Přímé řeči** (= literární figura, kterou tvoří jedna nebo několik vět vložených do vyprávění jako doslovný citát jiné osoby, než je vypravěč. Je uzavřena v uvozovkách a může být doprovozena uvozovací větou.)
 
 **Monology** (= je promluva sama k sobě – to, co si člověk říká pro
 sebe)
@@ -222,7 +214,7 @@ Tyto reformy vykročily správným směrem. Chyběla ale ústava a
 samoděržavní systém byl v podstatě zachován. Monopol na všechny úřady
 měla šlechta, car mohl svévolně rozhodovat o všem.
 
-**<span class="underline">5 autorů a díla té doby:</span>**
+**5 autorů a díla té doby:**
 
 **Ivan A. Gončarov – Oblomov** (pojednává o marném boji s leností,
 pasivností a nerozhodností. I když už to vypadá, že hlavní hrdina
@@ -268,7 +260,7 @@ vzornou manželkou a matkou. Tolstoj ji pokládá za ideál ženy.)
 **Anton Pavlovič Čechov – Ivanov** (román v dramatu o učňovských létech
 Čechových vrstevníků, kteří prožívají citová zklamání a ztrátu iluzí.)
 
-**<span class="underline">Období:</span>**
+**Období:**
 
 **Ruský realismus – přelom 1. a 2. pol. 19.stol.**
 
