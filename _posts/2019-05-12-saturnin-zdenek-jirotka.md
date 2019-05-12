@@ -26,8 +26,8 @@ description: Saturnin | čtenářský deník
 
 #### Časoprostor
 
-Období první republiky, asi necelé dva měsíce, 1941 v Praze, poté v
-dědečkově domě pod vrchem Hradová.
+Období první republiky, asi necelé dva měsíce, v Praze, poté v
+dědečkově domě pod vrchem Hradová. Zhruba druhá polovina 30. let, válka není zmíněna.
 
 #### Kompoziční výstavba
 
@@ -56,53 +56,26 @@ Osobní vypravěč
 
 ##### Hlavní
 
-  - Vypravěč
-    
-      - nemá jméno, je to docela suchar, líbí se mu slečna Barbora
-    
-      - ve filmu jméno má – pozor na rozdíl od knižního zpracování -
-        Jiří Oulický
-
-  - Saturnin
-    
-      - velmi kreativní člověk, nízká tolerance stupidity, je oddaný
-        svému pánovi, výstřední, vynalézavý a nápaditý, na všechny
-        situace mí své vlastní, originální řešení
-
-  - Slečna Barbora
-    
-      - krásná, cílevědomá, odvážná, hraje tenis, umí se dobře
-        přizpůsobit dané situaci a je pro každou legraci, pro každé
-        dobrodružství
-
-  - Dědeček
-    
-      - bohatý, má rád vypravěče, chce mu přenechat své dědictví,
-        nadšenec do elektřiny, oblíbí si Saturnina, baví ho, že se
-        veškeré příbuzenstvo snaží získat jeho majetek
-
-  - Teta Kateřina
-    
-      - vdova, chce získat dědečkovo dědictví, je ochotná pro dosažení
-        jejího cíle vykonat i nemorální činy, neustále říká přísloví,
-        myslí si, že jsou na ni všichni zvědaví
+- Vypravěč
+ - nemá jméno, je to docela suchar, líbí se mu slečna Barbora    
+ - ve filmu jméno má – pozor na rozdíl od knižního zpracování-Jiří Oulický
+- Saturnin    
+ - velmi kreativní člověk, nízká tolerance stupidity, je oddaný svému pánovi, výstřední, vynalézavý a nápaditý, na všechny situace mí své vlastní, originální řešení
+- Slečna Barbora    
+  - krásná, cílevědomá, odvážná, hraje tenis, umí se dobře přizpůsobit dané situaci a je pro každou legraci, pro každé dobrodružství
+- Dědeček    
+ - bohatý, má rád vypravěče, chce mu přenechat své dědictví, nadšenec do elektřiny, oblíbí si Saturnina, baví ho, že se veškeré příbuzenstvo snaží získat jeho majetek 
+- Teta Kateřina
+ - vdova, chce získat dědečkovo dědictví, je ochotná pro dosažení jejího cíle vykonat i nemorální činy, neustále říká přísloví, myslí si, že jsou na ni všichni zvědaví
 
 ##### Vedlejší
 
-  - Milouš
-    
-      - kouří, myslí si o sobě, že je superbalič, syn tety Kateřiny
-
-  - Doktor Vlach
-    
-      - sarkastický, baví ho Saturnin, vymýšlí teorie o chování lidí a
-        pak je všem říká
-
-  - Strýc František
-    
-      - manžel tety Kateřiny, umřel 10 let před dějem knihy, měl továrnu
-        na čistící prostředky, chtěl udělat zázračné mýdlo, ale vůbec
-        tomu nerozuměl, po jeho smrti Kateřina peníze rozházela
+- Milouš
+ - kouří, myslí si o sobě, že je superbalič, syn tety Kateřiny
+- Doktor Vlach
+ - sarkastický, baví ho Saturnin, vymýšlí teorie o chování lidí a pak je všem říká
+- Strýc František
+ - manžel tety Kateřiny, umřel 10 let před dějem knihy, měl továrnu na čistící prostředky, chtěl udělat zázračné mýdlo, ale vůbec tomu nerozuměl, po jeho smrti Kateřina peníze rozházela
 
 #### Vyprávěcí způsoby
 
@@ -115,6 +88,8 @@ Osobní vypravěč
 > Tvrdil, že lupič se zranil sám, a to řemdihem ze sbírek zbraní profesora Ludy.
 
 #### Typy promluv
+
+Relativně málo přímé řeči, časté obracení se k čtenáři.
 
 **Pásmo vypravěče**
 
@@ -161,19 +136,22 @@ počínáním hlavou“
 #### Kontext autorovy tvorby
 
 **Spisovatel a fejetonista**, Saturnin byl jeho první román. Inspirace
-**suchým anglickým humorem**. Další dílo: Muž se psem (o amatérském
-detektivovi). Tvoří mezi lety 1942 a 2000. Jirotka nikdy nepřekonal
+**suchým anglickým humorem**. Tvoří mezi lety 1942 a 2000. Jirotka nikdy nepřekonal
 Saturnina, ale díky jeho popularitě mohl být od roku 1942 spisovatelem
 na plný úvazek. Postava vypravěče v Saturninovi se autorovi v mnohém
 podobá, ale Jirotka se oženil ve 28 letech, zatímco vypravěč je single i
 ve 30. Jako spisovatel přispíval do Lidových novin a satirického deníku
 Dikobraz.
 
+**Další dílo:**
+- Muž se psem (o amatérském detektivovi, parodie na detektivní romány)
+- Profesor biologie na žebříku (soubor povídek)
+- Pravidla se změnila
+
 **Tematicky podobné dílo:**
 
-  - Miroslav Švandrlík – Černí baroni aneb Válčili jsme za Čepičky
-
-  - Jaroslav Hašek – Osudy dobrého vojáka Švejka
+- Miroslav Švandrlík – Černí baroni aneb Válčili jsme za Čepičky
+- Jaroslav Hašek – Osudy dobrého vojáka Švejka
 
 #### Literární/obecně kulturní kontext
 
@@ -206,21 +184,21 @@ neobnovil v plném rozsahu. Vrcholným orgánem odboje se staly Přípravný
 revoluční výbor a Rada tří (R-3). Komunisté vytvořili 3. ilegální ÚV KSČ
 a mládežnickou organizaci Předvoj.
 
+**Díla**
+- Dobrý voják Švejk
+- Bylo nás pět
+- Tankový prapor
+
 **Další čeští autoři:**
 
   - Karel Poláček (Bylo nás pět, Muži v ofsajdu)
-
   - Eduard Bass (Cirkus Humberto, Klapzubova jedenáctka) – před
     převratem
-
   - Arnošt Lustig (Dita Saxová, Modlitba pro Kateřinu Horovitzovou)
-
   - Jiří Žáček – po roce 1948
-
   - Michal Viewegh (Vybíjená, Báječná léta pod psa) – po 1989
 
 **Další světoví autoři:**
 
   - Jerome Klapka Jerome (Tři muži) – Jirotkova inspirace
-
   - Jack Kerouac (Na cestě)
