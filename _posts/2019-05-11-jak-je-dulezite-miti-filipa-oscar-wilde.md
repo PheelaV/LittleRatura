@@ -90,7 +90,7 @@ převládají dialogy, souvětí, hry se slovy
 
 #### Typy promluv
 
-##### **Přímá**
+ **Přímá**
 
 ##### Jack: „Dobrá, když to tedy chceš vědět, Cecilie je náhodou moje teta.“
 
