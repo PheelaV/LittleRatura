@@ -8,7 +8,7 @@ pageDownload: /docs/processed/na-zapadni-fronte-klid-erich-maria-remarque.docx
 description: Na Základní Frontě Klid | čtenářský deník
 ---
 
-# Na Základní Frontě Klid | Erich Maria Remarque
+# Na Západní Frontě Klid | Erich Maria Remarque
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
