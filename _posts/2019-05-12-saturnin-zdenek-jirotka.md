@@ -16,13 +16,21 @@ description: Saturnin | čtenářský deník
 
 #### Téma a motiv
 
+##### Téma
+
+odlišnost chování Saturnina ve srovnání s ostatními lidmi
+
+##### Motiv
+přehnaná zdvořilost a uhlazenost, omezenost a vypočítavost
+Saturnina neotřelý pohled na svět
+Usedlý život Saturninova pána
   - Odlehčení od vážnějších problémů té doby (okupace)
 
-  - Kritika lidských vlastností typu: hloupost, namyšlenost, přehnaná zdvořilost a uhlazenost, omezenost a vypočítavost
+  - Kritika lidských vlastností typu: hloupost, namyšlenost, 
 
-  -  Humor a odlišnost chování Saturnina ve srovnání s ostatními lidmi, jeho neotřelý pohled na svět, umění nalhávat lidem a nacházet něco zajímavého na tom, co ostatním lidem připadá nudné nebo obyčejné
+  -  Humor a , jeho neotřelý pohled na svět, umění nalhávat lidem a nacházet něco zajímavého na tom, co ostatním lidem připadá nudné nebo obyčejné
 
-  -  Usedlý život Saturninova pána a jeho skrytá touha po dobrodružství a povyražení – snaha o to, aby život nebyl „jen šedivý“
+  -   a jeho skrytá touha po dobrodružství a povyražení – snaha o to, aby život nebyl „jen šedivý“
 
 #### Časoprostor
 
@@ -120,8 +128,7 @@ vyšetřování“
 
 **Metafora**
 
-> „uvízlo v paměti“, „vážnější čtenáři novin kroutili nad jeho
-počínáním hlavou“
+> „uvízlo v paměti“, „vážnější čtenáři novin kroutili nad jeho počínáním hlavou“
 
 **Metonymie**
 

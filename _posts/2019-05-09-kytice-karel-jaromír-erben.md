@@ -13,17 +13,15 @@ description: Kytice | čtenářský deník
 
 ### I.ČÁST
 
-#### zasazení výňatku do kontextu díla
-
 #### Téma a motiv
 
-Balady mají vyhrocený děj, vyplívající z nějakého hrůzného činu, jehož
-se někdo dopustil. Tématem se stala především provinění nějakého
-člověka, který je následně za svůj čin potrestán
+**Téma**
 
-Hlavní myšlenkou je ukázat, že lidská společnost si většinou na následky
-hříchů může sama. Každý člověk má svůj osud a pokus o změnu osudu se
-krutě trestá. Nejsilnějším citem je zde mateřství.
+Morální provinění člověka a jejich následky
+
+**Motiv**
+
+sobeckost, chamtivost, zločin, mateřství, láska, trest, osud, 
 
 #### Časoprostor
 
@@ -32,8 +30,7 @@ neměnný a děj je pochmurný.
 
 #### Kompoziční výstavba
 
-Kniha je rozdělena na původně 12 balad, později byla přidána 13. balada
-(tedy **13 balad**). Většina z nich je odrazem přírody. Kniha obsahuje
+Kniha je rozdělena na původně 12 balad, později byla přidána 13. balada. Většina z nich je odrazem přírody. Kniha obsahuje
 tyto balady: Vodník, Polednice, Záhořovo lože, Štědrý den, Holoubek,
 Lilie, Věštkyně, Svatební košile, Vrba, Zlatý kolovrat, Dceřina kletba,
 Poklad, Kytice (úvodní báseň)
@@ -122,7 +119,7 @@ vlastnost“ substantiva.)
 **Eufemismus** (= je zlehčování, zjemňování, přikrášlující pojmenování
 špatné nebo nepříjemné skutečnosti.)
 
-> "Již na něm roste trávníček\!"
+> "Již na něm roste trávníček!"
 
 **Metonymie** (= spočívá v přenosu označení na jiný objekt na základě
 vnitřní podobnosti.)
@@ -133,7 +130,7 @@ vnitřní podobnosti.)
 „obrací jinam“ než k přítomnému publiku, k nepřítomné či zemřelé
 osobě, případně oslovuje neživou věc.)
 
-> "Maria, panno přemocná\!"
+> "Maria, panno přemocná!"
 
 **Metafora** (=je jazyková a rétorická literární konstrukce spočívající
 v přenášení významu na základě vnější podobnosti.)
@@ -174,11 +171,15 @@ se kterými se ztotožňoval. Nějaký čas pobýval v Zábřehu jako člen
 deputace na chorvatský sjezd. Po skončení revoluce se vrátil do Prahy.
 Veřejnému životu se vyhýbal.
 
-**Století:** 19. století
+**Století:** 
 
-**Umělecký směr a proud:** národní obrození
+19. století
 
-Národní obrození rozdělujeme na tři fáze. (samotné NO viz. Období)
+**Umělecký směr a proud:** 
+
+Národní obrození
+
+Rozdělujeme na tři fáze. (samotné NO viz. Období)
 
 1.  **Fáze – obranná** (cílem této fáze byla snaha nenechat se poněmčit,
     jelikož úředním jazykem byla němčina. Této snahy se chopila i česká
@@ -202,10 +203,21 @@ Národní obrození rozdělujeme na tři fáze. (samotné NO viz. Období)
     k rozvoji divadla, publicistiky a poezie. Do této fáze řadíme:
     Josef Kajetán Tyl, Karel Jaromír Erben…)
 
-**Zástupci národního obrození:** Božena Němcová, Josef Kajetán Tyl,
-Karel Hynek Mácha …
+**Zástupci národního obrození:** 
+
+- Božena Němcová
+- Josef Kajetán Tyl
+- Karel Hynek Mácha
 
 #### Literární/obecně kulturní context
+
+Balady mají vyhrocený děj, vyplívající z nějakého hrůzného činu, jehož
+se někdo dopustil. Tématem se stala především provinění nějakého
+člověka, který je následně za svůj čin potrestán
+
+Hlavní myšlenkou je ukázat, že lidská společnost si většinou na následky
+hříchů může sama. Každý člověk má svůj osud a pokus o změnu osudu se
+krutě trestá. Nejsilnějším citem je zde mateřství.
 
 **Josef Kajetán Tyl – Strakonický dudák** (Švanda a Dorotka se chtějí
 vzít. Její otec je proti tomu. Švanda se v doprovodu Vocilky vypraví do

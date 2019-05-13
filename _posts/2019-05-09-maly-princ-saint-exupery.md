@@ -13,37 +13,49 @@ Malý princ
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
-### I.ČÁST
+### I.část
 
-#### TÉMA A MOTIV
+#### Téma a motiv
 
-Láska, **síla přátelství**, střet dětského světa se světem dospělých, havárie, písek, kresby (hroznýš, beránek), nespokojenost s kresbami, zvědavost, podstatné a nepodstatné věci v životě, nedůvěra, lenost, pýcha, hvězdy, utěšování, **špatné vlastnosti dospělých** (lakota, alkoholismus,...), **zamyšlení nad pravými hodnotami lidského života**, seznámení, životní moudrost, pravidla, zodpovědnost...
+**Téma**
 
-#### ČASOPROSTOR
+střet dětského světa se světem dospělých
+
+**Motiv**
+
+Láska, síla přátelství, střet dětského světa se světem dospělých, havárie, písek, kresby (hroznýš, beránek), nespokojenost s kresbami, zvědavost, podstatné a nepodstatné věci v životě, nedůvěra, lenost, pýcha, hvězdy, utěšování, špatné vlastnosti dospělých (lakota, alkoholismus,...), zamyšlení nad pravými hodnotami lidského života, seznámení, životní moudrost, pravidla, zodpovědnost...
+
+#### Časoprostor
 
 Přesné období není uvedeno, děj se odehrává po dobu 8 dní, na
 jednotlivých planetkách, celkem je jich 7. Autor příběh vypráví po 6
 letech od doby, kdy se princ vrátil na svou planetku.
 
-#### KOMPOZIČNÍ VÝSTAVBA
+#### Kompoziční výstavba
 
 Začátek a konec jsou psané **chronologicky**, vyprávění malého prince jsou
 psána **retrospektivně** – vzpomíná, vrací se do minulosti. 27 římsky
 očíslovaných, nepojmenovaných kapitol. Autor si knihu sám ilustroval.
 Na začátku je věnování jeho příteli Leónu Werthovi.
 
-#### LITERÁRNÍ DRUH A ŽÁNR
+#### Literární druh a žánr
 
 Lit. druh -Epika(próza)
 Lit žánr - Román, (filozofický, pohádkový příběh)
 
-### II. ČÁST
+### II. část
 
-#### VYPRAVĚČ/LYRICKÝ SUBJECT
+#### Vypraveč/Lyrický subjekt
 
-#### POSTAVA/Y
+Vypravěčem je pilot, reprezentuje autora. 
 
-##### **Hlavní**
+**ich-forma** - na začátku a na konci
+
+**er-forma** - použita při popisu Malého prince a jeho činů
+
+#### Postava/y
+
+##### Hlavní
 
 - **Malý princ**
   - Má zlaté vlasy, velmi citlivý, vnímavý, bezelstný, nezkažený,
@@ -62,7 +74,7 @@ Lit žánr - Román, (filozofický, pohádkový příběh)
 - **Květina**
   - Marnivá, nafoukaná, plná pýchy, domýšlivá.
 
-##### **Vedlejší**
+##### Vedlejší
 
 - **Král**
   - Pořád si potřebuje dokazovat svoji nadřazenost, panovačný – řídí
@@ -91,12 +103,7 @@ Lit žánr - Román, (filozofický, pohádkový příběh)
   - Reprezentují spěch a honbu za náhražkami – pro malého prince
     nesmyslné, zbytečné, bezcenné.
 
-#### VYPORÁVĚCÍ ZPŮSOBY
-
-Vypravěčem je sám autor, na začátku a na konci probíhá v ich-formě,
-zbytek je v er-formě (vyprávění malého prince)
-
-#### TYPY PROMLUV
+#### Vyprávěcí ZPŮSOBY
 
 **Často přímá řeč**
 
@@ -106,7 +113,10 @@ zbytek je v er-formě (vyprávění malého prince)
 
 > Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
 
+#### Typy promluv
+
 **Vnitřní monology**
+
 > "Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ."
 Nebo když přemýšlí o své květině.
 
@@ -118,21 +128,33 @@ Nebo když přemýšlí o své květině.
 
 > „Poušť je krásná...,“ dodal.
 
-### III. ČÁST
+### III. část
 
 #### JAZYKOVÉ PROSTŘEDKY
 
-- spisovný jazyk
-- zdrobněliny
-- metafora (* stará opuštěná skořápka)
-- přirovnání (* klesl pomalu, jako padá strom)
-- personifikace (* hvězdy se tiše smějí, studna zpívá, vítr spí)
+**Spisovný jazyk**
 
-#### TROPY A FIGURY A JEJICH FUNKCE VÝŇATKU
+**Zdrobněliny** 
 
-## LITERÁRNÉHISTORICKÝ KONEXT
 
-#### KONTEXT AUTOROVY TVORBY
+#### Tropy a figury a jejich funkce výňatku
+
+**Metafora**
+
+>  "stará opuštěná skořápka"
+
+**Přirovnání** 
+
+> "klesl pomalu, jako padá strom"
+
+**Personifikace** 
+
+> "hvězdy se tiše smějí", "studna zpívá", "vítr spí"
+
+
+## Literárnéhistorický konext
+
+#### Kontext autorovy tvorby
 
 **Antoine de Saint-Exupéry** byl francouzský prozaik 20. století,
 publicista, letec na dálkových tratích a válečný pilot. Narodil se v
@@ -154,7 +176,7 @@ letecké romány na pomezí reportáže a dokumentu. Zachycují osobní zážitk
 z vlastního ohrožení života. - Citadela – posmrtně vydaná esejistická
 kniha
 
-#### LITERÁRNÍ/OBECNĚ KULTURNÍ CONTEXT
+#### Literární/obecně kulturní context
 
 **Meziválečná literatura 1. polovina 20. století**
 
@@ -191,9 +213,9 @@ generace zavedla Gertruda Steinová. Další autoři:
 
 - **Amerika**:
 
-  - John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a lidech),
-  - Francis Scott Fitzgerald (Velký Gatsby, Podivuhodný případ Bejnamina Buttona),
   - **Ernest Hemingway** (Stařec a moře, Komu zvoní hrana, Sbohem armádo)
+  - John Steinbeck (Na východ od ráje, Hrozny hněvu, O myších a lidech),
+  - **Francis Scott Fitzgerald** (Velký Gatsby, Podivuhodný případ Bejnamina Buttona),
 
 - **Francie**:
 
@@ -206,9 +228,9 @@ generace zavedla Gertruda Steinová. Další autoři:
 
 - **Německo**:
 
-  - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya, Bláznova moudrost),
   - **Erich Maria Remarque** (Na západní frontě
     klid, Nebe nezná vyvolených)
+  - Lion Feuchtwanger (Lišky na vinici, Židovka z Toleda, Goya, Bláznova moudrost),
 
 - **Česko**:
   - **Franz Kafka** (Proces, Proměna, Venkovský Lékař)

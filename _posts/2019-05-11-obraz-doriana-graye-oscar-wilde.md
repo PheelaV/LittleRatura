@@ -16,12 +16,13 @@ description: Obraz Doriana Graye | čtenářský deník
 
 #### Téma a motiv
 
-Otázky **morálky** a **svědomí**, zkaženost charakteru a lidské
-sebevědomí.
+**Téma**
 
-Autor chtěl přimět čtenáře k tomu, že krása v životě není to
-nejpodstatnější, že nejdůležitějšími věcmi v životě jsou úplně jiné
-kvality, než se může na první pohled zdát.
+Zkaženost člověka společností
+
+**Motiv**
+
+obraz, pýcha, strach, stárnutí, mládí, alkohol, podvod
 
 #### Časoprostor
 
@@ -29,7 +30,7 @@ kvality, než se může na první pohled zdát.
 
 #### Kompoziční výstavba
 
-Chronologická. Kniha je rozdělena do 20 kapitol a součástí je i
+**Chronologická**. Kniha je rozdělena do 20 kapitol a součástí je i
 předmluva ve které autor objasňuje svůj záměr. Tato předmluva vyvolala
 bouřlivé reakce.
 
@@ -125,7 +126,7 @@ zastírat nebo říkat přímý opak.)
 
 **Anafora** (=je slovní figura, opakování shodného slova nebo skupiny slov na začátku za sebou jdoucích veršů nebo vět.)
 
-> „…za to – za to bych dal všecko\!“
+> „…za to – za to bych dal všecko!“
 
 **Synekdoch**a (= je jazyková či rétorická figura, při níž je název celku použit pro označení části nebo naopak název části pro označení celku)
 
@@ -170,7 +171,7 @@ Doriana Graye patří mezi Wildovu prvotinu.
 **Zástupci:** Thomas Mann, Rainer Maria Rilke, Heinrich Mann, Verlaine,
 Baudelaire, Rimbaud,
 
-**<span class="underline">5 autorů a díla té doby:</span>**
+**5 autorů a díla té doby:**
 
 **Thomas Mann –** **Doktor Faust (**tento filosofický román je vrcholem
 jeho tvorby. Je inspirován Goethovým Faustem. Příběh vypráví profesor
@@ -199,7 +200,7 @@ skladba. Básník se zde přirovnává ke korábu. Loď na rozbouřeném moři j
 samotný autor, který pluje mezi životem a smrtí. Individuum se odklání
 do říše fantazie, putuje říší.)
 
-**<span class="underline">Období:</span>**
+**Období:**
 
 Během **viktoriánské éry** došlo k masivnímu **nárůstu populace**,
 jelikož se zvýšila porodnost a snížila úmrtnost. Běžná domácnost

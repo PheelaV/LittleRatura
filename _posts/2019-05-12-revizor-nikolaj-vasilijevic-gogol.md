@@ -12,20 +12,17 @@ description: Revizor | čtenářský deník
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
-### I.ČÁST
+### I.část
 
 #### Téma a motiv
 
-**Poměry v Rusku**, které chtěl čtenářům přiblížit. Tématem je zobrazené
-křivé **tváře maloměstského života**.
+**Téma**
 
-Hra je výsledkem dlouholetého autorova úsilí, kdy chtěl shrnout vše
-špatné v Rusku a současně se tomu vysmát. Dílo je **satiricky zaměřeno
-proti úplatkářství**.
+Korupce v Rusku
 
-V době svého prvního uvedení zcela zbořila veškerá pravidla tehdejšího
-divadla. Ve hře není jediná kladná postava a o "povinné" milostné
-zápletce také nemůže být řeč.
+**Motiv**
+
+Lež, poštovní tajemství, mazanost, úplatky, podvod, manipulace.
 
 #### Časoprostor
 
@@ -103,23 +100,19 @@ chování.
 **Vypravování**
 
 #### Typy promluv
+Hra je aložena na svěžích dialozích přímo odposlouchaných ze života
+(**přímá řeč** bez uvozovek, **scénické poznámky**).
 
-**Dialogy** (= [rozhovor](https://cs.wikipedia.org/wiki/Rozhovor) dvou
-nebo více osob)
-
-**Přímé řeči** (= literární figura, kterou tvoří jedna nebo několik vět vložených do vyprávění jako doslovný citát jiné osoby, než je vypravěč. Je uzavřena v uvozovkách a může být doprovozena uvozovací větou.)
+**Dialogy** (= rozhovor dvou nebo více osob)
 
 **Monology** (= je promluva sama k sobě – to, co si člověk říká pro
 sebe)
 
-### III. ČÁST
+### III. část
 
 #### Jazykové prostředky
 
 Komedie o pěti dějstvích (divadelní hra).
-
-Hra je aložena na svěžích dialozích přímo odposlouchaných ze života
-(**přímá řeč** bez uvozovek, **scénické poznámky**).
 
 Obsah dialogů vtipně vystihuje charakter a myšlení protagonistů. Slova
 jsou
@@ -148,6 +141,18 @@ příslovci jak, jako)
 ## Literárnéhistorický konext
 
 #### Kontext autorovy tvorby
+
+
+**Poměry v Rusku**, které chtěl čtenářům přiblížit. Tématem je zobrazené
+křivé **tváře maloměstského života**.
+
+Hra je výsledkem dlouholetého autorova úsilí, kdy chtěl shrnout vše
+špatné v Rusku a současně se tomu vysmát. Dílo je **satiricky zaměřeno
+proti úplatkářství**.
+
+V době svého prvního uvedení zcela zbořila veškerá pravidla tehdejšího
+divadla. Ve hře není jediná kladná postava a o "povinné" milostné
+zápletce také nemůže být řeč.
 
 Dílo Revizor vzniklo ve druhé fázi autorova spisovatelského období, a to
 v té době, kdy tíhnul k realismu.

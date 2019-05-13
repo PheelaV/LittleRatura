@@ -15,14 +15,13 @@ description: Den trifidů | čtenářský deník
 
 #### Téma a motiv
 
-Lidská moc jako dvojsečný meč. Boj lidstva v oslabení vlivem jakéhosi
-nebeského úkazu proti rostlinám nazývanými trifidi. Naprostá většina
-lidí, kteří tento úkaz viděli oslepla a ten zbytek, který měl to štěstí
-a nějakým způsobem se osudný večer na oblohu nedíval bojuje o zachování
-lidstva. Časem se jako největší překážka ukáží býti právě trifidi. Ti
-byli pěstování ve velkém kvůli kvalitnímu oleji, i přesto že dokáží
-zmrzačit či dokonce zabít člověka. V příběhu je popsána legenda o jejich
-masivním rozšíření po světě.
+**Téma**
+
+Lidská moc jako dvojsečný meč.
+
+**Motiv**
+
+Ohrožení člověka přírody a přírody člověkem, přežití, kolonizace, obětování, dobromyslnost, sebezáchova
 
 #### Časoprostor
 
@@ -31,22 +30,22 @@ později ostrov Wight.
 
 #### Kompoziční výstavba
 
-Příběh je uváděn chronologicky, jednotlivé části příběhu jsou uváděny
-tak jak jdou za sebou z minulosti až po současnost.
+**Chronologická** (= jednotlivé části příběhu jsou uváděny
+tak jak jdou za sebou z minulosti až po současnost)
 
 #### Literární druh a žánr
 
-Lit. druh: epika – dílo má děj
+Lit. druh: **epika** – dílo má děj
 
-Lit. žánr: román – dílo je poměrně rozsáhlé
+Lit. žánr: **román** – dílo je poměrně rozsáhlé
 
 ### II. část
 
 #### Vypravěč/lyrický subject
 
-Dílo má vypravěče, který hovoří v ich-formě a používá nejčastěji
-minulého času. Jedná se o personálního vypravěče, který je zároveň
-hlavní postavou příběhu.
+Dílo má **personálního** vypraveče, splívá s hlavní postavou.
+
+**Ich-forma** - používá nejčastěji minulého času.
 
 #### Postavy
 
@@ -106,16 +105,29 @@ hlavní postavou příběhu.
 
 #### Jazykové prostředky
 
-Kratší výstižný popis, střídá se s dialogy, vnitřní monology vypravěče,
-výstižný obsáhlejší způsob vyjadřování – delší souvětí, spisovný jazyk,
-občasné použití slangu v přímé řeči. Reportážní vyprávěcí technika,
-rychlý spád.
+Kratší výstižný popis, obsáhlejší způsob vyjadřování – delší souvětí, spisovný jazyk,
+občasné použití slangu v přímé řeči. Reportážnívyprávěcí technika, rychlý spád.
 
-#### Literárnéhistorický konext
+#### Tropy a figury a jejich funkce výňatku
+
+**Přirovnání**
+
+> „Určitá společenská ctnost může být stejně tak společenským zločinem.“
+
+## Literárnéhistorický konext
 
 #### Kontext autorovy tvorby
 
-John Wyndham pracoval na farmě, neúspěšně se pokusil o vystudování práv
+Kniha je o morálce, humanismu a závěr vyznívá optimisticky. Téma hrozby zkázy
+světa a zániku civilizace je stále aktuální, lidské vztahy a rozpory ve společnosti, natož v době, kdy byla v plném proudu studená
+válka. Publikováno 1951.
+
+John Wyndham věřil, že člověk se na
+světě ocitl pouhou náhodou a že záleží jen na něm, co ze své existence vytěží.
+V tomto duchu psal svá díla jako vědeckofantastické morality, které jsou
+srovnávány pro svoji angažovanost, humanismus a optimismus s dílem H.G.Wellse.
+
+Pracoval na farmě, neúspěšně se pokusil o vystudování práv
 a později pracoval v reklamní agentuře. Poté vstoupil do světa
 vědecko-fantastické literatury pomocí jeho povídek publikovaných
 v magazínech. Napsal mnoho detektivek, románů, které nevzbudili velkou
@@ -134,7 +146,28 @@ ostatních.
 
 #### Literární/obecně kulturní kontext
 
-Kniha je o morálce, humanismu a závěr vyznívá optimisticky. Téma hrozby
-zkázy světa a zániku civilizace je stále aktuální, lidské vztahy a
-rozpory ve společnosti, natož v době, kdy byla v plném proudu studená
-válka.
+**Světová literatura 20. Století**
+Druhá světová válka byl globální vojenský konflikt, jehož se zúčastnila většina států světa a jenž se stal s více než 60 miliony obětí dosud největším a nejvíc zničujícím válečným střetnutím v dějinách lidstva. Příčiny války představovaly důsledky versailleské smlouvy, která prohloubila pocit ponížení v poražených státech, zvláště v Německu, a velká hospodářská krize na přelomu dvacátých a třicátých let, jež zásadním způsobem oslabila velkou část států, čímž umožnila vzestup nacismu pod vedením Adolfa Hitlera a jiných totalitárních režimů v celé Evropě.
+
+
+**George Orwell** - Farma zvířat
+Antiutopický román s vizí totalitního světa. Inspirace stalinistickým režim a jeho kritika. Kniha představuje diktaturu v čele s Velkým bratrem. Vlastní názor a jakékoli smýšlení, které je v rozporu se stranou, je zločinem, a ten se velmi tvrdě trestá.
+
+1984
+Antiutopický román s vizí totalitního světa. Inspirace stalinistickým režim a jeho kritika. Kniha představuje diktaturu v čele s Velkým bratrem. Vlastní názor a jakékoli smýšlení, které je v rozporu se stranou, je zločinem, a ten se velmi tvrdě trestá.
+
+**Samuel Beckett** - Čekání na Godota
+Absurdní drama, jeho vrcholné dílo, bezvýchodnost lidské existence, pocit osamocení člověka ve světě, není zde žádná víra, žádná budoucnost, nic, co by nasvědčovalo vyššímu smyslu lidské existence.
+
+**Ladislav Fuks** - Spalovač Mrtvol
+Psychologický román s prvky hororu. Hlavní postava Karl Kopfrkingl, pracovník krematoria, se postupně vyvíjí, až jeho árijský původ v kombinaci s nacistickými myšlenky, z něj učiní vraha.
+
+**Josef Škvorecký** - Tankový prapor 
+Román, 1971 v Kanadě, 1990 v Praze, samotné dílo však vzniklo již v roce 1954. Autor humorným způsobem líčí vojenskou službu v 50. letech 20. století. Hlavním hrdinou Danny Smiřický.
+
+**Bohumil Hrabal** - Obsluhoval jsem anglického krále,
+\-Ostře sledované vlaky
+Novela s tématikou války a okupace. Hlavní postavou je výpravčí Miloš Hrma. Ostře sledovaný vlak má za cíl přepravu německých vojáků a zbraní.
+
+**Ota Pavel** - Smrt kásných srnců
+Próza. Vzpomínání na počátky svého života. Hovoří zde o svém otci z mnoha pohledů. Chronologická posloupnost událostí.

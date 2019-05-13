@@ -11,26 +11,37 @@ description: Proměna | čtenářský deník
 
 ## ANALÝZA UMĚLECKÉHO TEXTU
 
-### I.ČÁST
+### I.část
 
 #### Téma a motiv
 
-Vývoj rodinných vztahů po zásadní proměně jednoho jejího člena.
+**Téma**
+
+Metamorfóza člověka v odporný hmyz a reakce těch nejbližších
+
+**Motiv**
+
+Sen, touha, úzkost, uzavřenost, deprese, hlad...
 
 #### Časoprostor
 
-Není uvedeno, pravděpodobně se děj odehrává před 21. stoletím v
+Není uvedeno, podle významnozti novin a pravděpodobně se děj odehrává před 21. stoletím v
 maloměstském bytě Řehoře Samsy.
 
 #### Kompoziční výstavba
 
-Dílo je psáno chronologicky, jednotlivé děje jsou popisovány za sebou
+Dílo je psáno **chronologicky**, jednotlivé děje jsou popisovány za sebou
 tak jak se udály, Příběh je členěn do bezejmenných kapitol. Občas se
 vyskytuje retrospektiva v podobě vzpomínek na minulost.
 
 #### Literární druh a žánr
 
-Jedná se o dílo s dějem kratšího rozsahu, tedy o epické povídce.
+Jedná se o dílo s dějem kratšího rozsahu.
+
+Lit. druh: **epika** (= vychází z děje, vypráví příběh s postavami, prostředím, většinou je psána v próze.)
+
+Lit. žánr: **povídka** (= vychází z děje, vypráví příběh s postavami, prostředím, většinou je psána v próze.)
+
 
 ### II. část
 
@@ -49,6 +60,7 @@ Er forma, vypravěč je vševědoucí.
     měla dobře a nechce jim ztěžovat život. Je poctivý
     pracovitý, živý rodinu, milý, bere svou proměnu jako fakt,
     necítí se ukřivděn.
+  -Po proměně měl spoustu malinkatých nožiček, tykadla, krunýř, velké tělo, na místo zubů čelisti
 
 ##### Vedlejší
 
@@ -79,7 +91,7 @@ Er forma, vypravěč je vševědoucí.
 
 **Přímá řeč**
 
->    "Ano, ano, děkuji maminko, už vstávám."
+> "Ano, ano, děkuji maminko, už vstávám."
 
 **Nevlastní přímá řeč**
 
@@ -99,13 +111,13 @@ Er forma, vypravěč je vševědoucí.
 
 > Když si to všechno v největším spěchu rozvažoval
 
-### III. ČÁST
+### III. část
 
 #### Jazykové prostředky
 
-Autor používá spisovné formy jazyka bez slangových či hovorových výrazů.
-V textu se nevyskytují archaismy a tak je dobře srozumitelný i v dnešní
-době. Málokdy se díle vyskytují metafory či květnaté věty, text je spíše
+Autor používá **spisovné formy** jazyka **bez slangových či hovorových výrazů**.
+V textu se **nevyskytují archaismy** a tak je dobře srozumitelný i v dnešní
+době. **Málokdy se díle vyskytují metafory či květnaté věty**, text je spíše
 prostý.
 
 #### Tropy a figury a jejich funkce výňatku
@@ -129,8 +141,8 @@ prostý.
 Proměna je jedna z mála děl, které Kafka za svého života vydal, byl
 velmi sebekritický. Kafka měl velmi dobrý vztah s jednou z jeho sester
 Ottilií. Jeho otec ovšem vládnul pevnou rukou a neměl s ním dobrý vztah,
-byl extrovertní, společenský, sebevědomý, pravý opak Kafky. Možná se to
-promítlo i do jeho díla Proměna, kde Řehořův otec v díle udělil
+byl extrovertní, společenský, sebevědomý, pravý opak Kafky.
+ Možná se to promítlo i do jeho díla Proměna, kde Řehořův otec v díle udělil
 v podstatě smrtící ránu, na kterou časem podlehl. Jeho sestra, stejně
 jako sestra Řehoře v reálném životě se o něj před koncem jeho života
 starala. Jeho tvorba spadá do expresionistického uměleckého proudu a
@@ -141,13 +153,15 @@ tajemný, uzavřený, nešťastný, toto vše se promítalo v jeho postavách.
 
 #### Literární/obecně kulturní context
 
+Max Brod měl významnou roli v jeho životě. Spisovatel, pražák, psal německy. Po smrti Kafky vydal všechna jeho díla.
+
 Počátek 20. století, patřil do pražského vnitřního kruhu **německých**
-autorů společně s Oskarem Bauem a Felixem Weltischem.
+autorů společně s Oskarem Bauem a Felixem Weltischem, Max Brod.
 
 **Amerika**
 
 - Ernest Hemingway (Komu Zvoní Hrana), ztracená generace
-  **Německo**
+**Německo**
 - Erich Maria Remarque (Na Západní Frontě Klid)
 
 a další.

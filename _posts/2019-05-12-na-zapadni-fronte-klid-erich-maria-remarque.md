@@ -16,13 +16,11 @@ description: Na Západní Frontě Klid | čtenářský deník
 
 #### Téma a motiv
 
-Jedná se o válečný historický román, který oslavuje lidskou solidaritu,
-nezištnou obětavosti v mezních situacích. Dalším tématem je deformace
-lidství (dosavadní kultura a ideologie se jeví jako zbytečná a absurdní,
-falešná a nepřátelská).
+**Téma**
+Krutost války
 
-Myšlenkou tohoto díla je ukázat lidem krutost války, která má dopad na
-rodiny i přátelství. Velmi dobře je vyjádřeno semknutí mezi vojáky.
+**Motiv**
+Solidarita, ovětavost, rodina, přátelství, bolest, smrt
 
 #### Časoprostor
 
@@ -108,8 +106,6 @@ ačkoliv mu z krku tryská krev jako fontána.)
 př.: již v názvu knihy Na západní frontě **klid**
 
 ## Literárnéhistorický konext
-
-#### Kontext autorovy tvorby
 
 **E.M.Remarque**
 typický představitel "ztracené generace", jeho dílo je zaměřeno
