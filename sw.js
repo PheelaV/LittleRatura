@@ -8,6 +8,8 @@ var urlsToCache  = [
 
 ];
 
+urlsToCache.push("{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}")
+urlsToCache.push("{{ '/assets/css/styles.css?v=' | append: site.github.build_revision | relative_url }}")
 // Cache assets
 {% for asset in site.static_files %}
     {% if asset.path contains '/assets/images' or asset.path contains '/assets/posts' or asset.extname == '.js' %}
