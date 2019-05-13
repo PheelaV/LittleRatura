@@ -26,10 +26,10 @@ Get-ChildItem $mdFolder | ForEach-Object {
         Set-Content  $yamlHeaderName $yamlContent
     }
 
-    Get-Content $_.FullName   
+    # Get-Content $_.FullName   
     $docxName = $docxFoler + '/' + $rawName + '.docx'
     pandoc -s $_.FullName -o $docxName
-    Write-Output $docxName;
+    Write-Output $rawName;
 }
 
 Write-Output DONE;
