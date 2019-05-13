@@ -8,7 +8,7 @@ $date = Get-Date -UFormat "%Y-%m-%d";
 Get-ChildItem $queueFolder | ForEach-Object { 
     $frontMatter = @();
 
-    if($_.Extension -eq '.yml'){
+    if ($_.Extension -eq '.yml') {
         continue
     }
 
@@ -20,11 +20,37 @@ Get-ChildItem $queueFolder | ForEach-Object {
     Write-Output $postName
 
     pandoc -s $_.FullName -t gfm -o $postName 
-    if(Test-Path $yamlFileFullName){
-        $frontMatter = Get-Content $yamlFileFullName
+
+    $pageDownloadIncluded = $false
+
+    if (Test-Path $yamlFileFullName) {
+        
+        [string[]]$fileContent = Get-Content $yamlFileFullName
+        $content = @();
+
+        foreach ($line in $fileContent) { 
+            if ($line.Contains('pageDownload')) { 
+                $content += $('pageDownload: ' + $pageDownload)
+                $pageDownloadIncluded = $true
+            } else {
+                $content += $line
+            }
+        }
+
+        if($pageDownloadIncluded -eq $false){
+            $content += $('pageDownload: ' + $pageDownload)
+        }
+
+        $frontMatter += @(
+            '---', 
+            $content, 
+            '---')
+
+        Set-Content $yamlFileFullName $content
 
         Move-Item $yamlFileFullName $('../' + $docxOutput) 
-    } else {
+    }
+    else {
         $frontMatter = @(
             "---",
             "#see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books",
@@ -32,8 +58,8 @@ Get-ChildItem $queueFolder | ForEach-Object {
             "categories: []",
             "layout: post",
             "tags: []",
-            $("pageDownload: " + $pageDownload),
             "description: | čtenářský deník",
+            $("pageDownload: " + $pageDownload),
             "---",
             "")
     }
