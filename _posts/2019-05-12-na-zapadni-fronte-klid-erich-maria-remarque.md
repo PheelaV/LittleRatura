@@ -17,9 +17,11 @@ description: Na Západní Frontě Klid | čtenářský deník
 #### Téma a motiv
 
 **Téma**
+
 Krutost války
 
 **Motiv**
+
 Solidarita, ovětavost, rodina, přátelství, bolest, smrt
 
 #### Časoprostor

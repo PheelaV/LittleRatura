@@ -21,16 +21,8 @@ description: Saturnin | čtenářský deník
 odlišnost chování Saturnina ve srovnání s ostatními lidmi
 
 ##### Motiv
+
 přehnaná zdvořilost a uhlazenost, omezenost a vypočítavost
-Saturnina neotřelý pohled na svět
-Usedlý život Saturninova pána
-  - Odlehčení od vážnějších problémů té doby (okupace)
-
-  - Kritika lidských vlastností typu: hloupost, namyšlenost, 
-
-  -  Humor a , jeho neotřelý pohled na svět, umění nalhávat lidem a nacházet něco zajímavého na tom, co ostatním lidem připadá nudné nebo obyčejné
-
-  -   a jeho skrytá touha po dobrodružství a povyražení – snaha o to, aby život nebyl „jen šedivý“
 
 #### Časoprostor
 

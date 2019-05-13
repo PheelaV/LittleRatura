@@ -18,18 +18,12 @@ description: Aréna smrti | čtenářský deník
 #### Téma a motiv
 
 **Téma**
+
 Vzpoura jedince vůči systému
 
 **Motiv**
+
 kontrola populace, blahobyt obyvatel kapitolu, chudoba krajů, příkazový ekonomický systém
-
-Tématem tohoto **dobrodružného románu** je ukázat čtenářovi, jak si
-autorka představuje smyšlenou budoucnost okolo nás. Jelikož se jedná o
-dílo z 21. století, má opravdu velký úspěch.
-
-Autorka nám představuje napínavé i filozofické, dobrodružné i romantické
-dílo zasazené do budoucnosti se zneklidňujícími paralelami k naší
-budoucnosti.
 
 #### Časoprostor
 
