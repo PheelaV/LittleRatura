@@ -22,7 +22,7 @@ Krutost války
 
 **Motiv**
 
-Solidarita, ovětavost, rodina, přátelství, bolest, smrt
+Solidarita, obětavost, rodina, přátelství, bolest, smrt
 
 #### Časoprostor
 
