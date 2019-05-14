@@ -63,13 +63,13 @@ ztotožňuje s hlavním hrdinou.
 ##### Hlavní
 
 - **Pavel Bäumer**   
- - hlavní postava a vypravěč celého příběhu, bývalý středoškolský student gymnázia; nezištný, obětavý, zpočátku plný odhodlaní a ideálů; těší se na frontu, později zažívá rozčarování, zklamání z válečných hrůz, psychicky se hroutí; jeho přáteli jsou Katczinsky, Kropp, Tjaden, Müller, Wolf, Kemmerich aj. - Pavlovi spolužáci, váleční přátelé téže "železné" generace. 
+    - hlavní postava a vypravěč celého příběhu, bývalý středoškolský student gymnázia; nezištný, obětavý, zpočátku plný odhodlaní a ideálů; těší se na frontu, později zažívá rozčarování, zklamání z válečných hrůz, psychicky se hroutí; jeho přáteli jsou Katczinsky, Kropp, Tjaden, Müller, Wolf, Kemmerich aj. - Pavlovi spolužáci, váleční přátelé téže "železné" generace. 
 ##### Vedlejší
 
 - **Stanislav Katczinsky** (40 let)  
- - vedoucí roty, pro vojáky opora (jakoby táta); přátelský, nepostradatelný; bývalý švec, vždy sežene jídlo.charakteristika
+    - vedoucí roty, pro vojáky opora (jakoby táta); přátelský, nepostradatelný; bývalý švec, vždy sežene jídlo.charakteristika
 - **Himmelstoss**  
- - desátník, vedl jejich výcvik; krutý velitel, bezohledný, tváří tvář nepříteli zbabělý charakteristika
+    - desátník, vedl jejich výcvik; krutý velitel, bezohledný, tváří tvář nepříteli zbabělý charakteristika
 
 #### Vyporávěcí způsoby
 
