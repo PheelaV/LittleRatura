@@ -113,7 +113,7 @@ vztah postav
 
 > „Tvoje teta!“
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

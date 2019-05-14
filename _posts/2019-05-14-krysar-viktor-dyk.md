@@ -136,7 +136,7 @@ pískal plně, ne pouze krysy šly by za**
 
 > Rybář hleděl tupě a nechápavě; co mu chtěl krysař?
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

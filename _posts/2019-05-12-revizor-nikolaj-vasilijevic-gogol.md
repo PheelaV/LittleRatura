@@ -138,7 +138,7 @@ příslovci jak, jako)
 
 **Tropy** (= Obrazné pojmenování založené na pozměnění významu slov.)
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

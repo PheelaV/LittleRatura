@@ -124,7 +124,7 @@ nedopovědění započaté věty či přerušenou výpověď. )
 
 > "Měla jsi červené šaty a vlasy...ve dvou copech místo jednoho."
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

@@ -130,7 +130,7 @@ vyšetřování“
 
 > „Dostalo se mi do rukou“ - taky by se to dalo brát jako metafora
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

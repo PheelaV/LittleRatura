@@ -136,7 +136,7 @@ zastírat nebo říkat přímý opak.)
 
 > „…příšerný jako ta nejtemnější jeskyně…“
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

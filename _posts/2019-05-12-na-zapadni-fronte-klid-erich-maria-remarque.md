@@ -107,7 +107,7 @@ ačkoliv mu z krku tryská krev jako fontána.)
 
 př.: již v názvu knihy Na západní frontě **klid**
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 **E.M.Remarque**
 typický představitel "ztracené generace", jeho dílo je zaměřeno

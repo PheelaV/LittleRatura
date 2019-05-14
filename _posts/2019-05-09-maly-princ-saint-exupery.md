@@ -40,8 +40,9 @@ Na začátku je věnování jeho příteli Leónu Werthovi.
 
 #### Literární druh a žánr
 
-Lit. druh -Epika(próza)
-Lit žánr - Román, (filozofický, pohádkový příběh)
+Lit. druh - **Epika** (próza)
+
+Lit žánr - **Román** (filozofický, pohádkový příběh)
 
 ### II. část
 
@@ -61,7 +62,7 @@ Vypravěčem je pilot, reprezentuje autora.
   - Má zlaté vlasy, velmi citlivý, vnímavý, bezelstný, nezkažený,
     mladý, zásadový, svědomitý, má rád západy Slunce, které se na
     jeho planetě střídají velmi rychle. Stále se na něco
-    vyptává,vyžaduje odpovědi, avšak nikdy neodpoví na otázky
+    vyptává, vyžaduje odpovědi, avšak nikdy neodpoví na otázky
     cizí. Je zklamaný lidskými charaktery, hlavně nedostatkem
     fantazie dospělých, později nachází skutečný smysl života –
     liška. Planeta B612 – domov.
@@ -109,7 +110,7 @@ Vypravěčem je pilot, reprezentuje autora.
 
 > Dodal ještě: „Víš ... moje květina ... jsem za ni zodpovědný! Je tak slaboučká! A tak naivní. Má jen čtyři maličké trny, aby ji chránily proti světu...“
 
-**Někdy nepřímá řeč**, pokaždé, když malý princ opouští planetku
+**Nevlastní nepřímá řeč**, pokaždé, když malý princ opouští planetku
 
 > Lítostivě si povzdechl a řekl si ještě: Je to jediný člověk, s kterým bych se mohl spřátelit. Ale jeho planeta je opravdu moc malá. Není tam místo pro dva...
 
@@ -118,6 +119,7 @@ Vypravěčem je pilot, reprezentuje autora.
 **Vnitřní monology**
 
 > "Dospělí jsou hrozně zvláštní, pomyslel si cestou malý princ."
+
 Nebo když přemýšlí o své květině.
 
 **Dialogy**, které vedou často k zamyšlení
@@ -152,7 +154,7 @@ Nebo když přemýšlí o své květině.
 > "hvězdy se tiše smějí", "studna zpívá", "vítr spí"
 
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 
@@ -171,9 +173,15 @@ letcem. Z letu nad Korsikou se nevrátil.
 
 Spisovatelské činnosti se věnoval od 20. let.
 
-Mezi jeho díla patří: - Kurýr na jih, - Noční let - Válečný pilot -
-letecké romány na pomezí reportáže a dokumentu. Zachycují osobní zážitky
-z vlastního ohrožení života. - Citadela – posmrtně vydaná esejistická
+Mezi jeho díla patří: 
+- **Kurýr na jih**
+- **Noční let**
+- **Válečný pilot**
+
+Jsou to letecké romány na pomezí reportáže a dokumentu. Zachycují osobní zážitky
+z vlastního ohrožení života. 
+
+**Citadela** – posmrtně vydaná esejistická
 kniha
 
 #### Literární/obecně kulturní context

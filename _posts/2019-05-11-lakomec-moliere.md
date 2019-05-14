@@ -100,9 +100,8 @@ Ostatní – hovorový, i vulgarismy
 
 Tropy barvitěji popisují situaci, ukazují, jak postava rozhovor prožívá.
 
-###
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

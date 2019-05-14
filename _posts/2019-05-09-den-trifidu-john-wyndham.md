@@ -114,7 +114,7 @@ občasné použití slangu v přímé řeči. Reportážnívyprávěcí technik
 
 > „Určitá společenská ctnost může být stejně tak společenským zločinem.“
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

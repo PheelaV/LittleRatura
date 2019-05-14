@@ -134,7 +134,7 @@ prostý.
 
 > "A teď?"
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 

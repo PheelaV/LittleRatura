@@ -164,7 +164,7 @@ Vševědoucí vypravěč
 
 ###
 
-## Literárnéhistorický konext
+## Literárněhistorický konext
 
 #### Kontext autorovy tvorby
 
