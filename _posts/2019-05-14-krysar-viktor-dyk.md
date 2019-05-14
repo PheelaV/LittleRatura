@@ -144,7 +144,7 @@ Krysař vyšel 1915, časopisecky vycházel už v letech 1911–12 v čas. Lumí
 pod názvem Pravdivý příběh.
 
 V díle se odráží novoklasicistní směřování pozdního Dykova díla, ale
-jsou zde patrny rovněž prvky romantismu, který byl Dykovi rovněž blízký.
+jsou zde patrny rovněž prvky romantismu, který byl Dykovi rovněž blízký. 
 
 Prvky novoklasicismu = téma z minulosti (pověst ze 13. století), nejde o
 přesné zachycení doby, ale zpodobení nadčasových rysů osudu člověka ve
@@ -154,6 +154,21 @@ tragický konec, ale i naděje; jádro sdělení je často předsunuto;
 opakování, náznaky, zámlky; tajemná atmosféra; autor do novely promítl
 svoje zklamání ze světa – všichni jsou sobečtí
 
+
+Dále se zde vyskytuje symbolismus
+
+píšťala - symbol moci
+
+krysy - přetvářka, společenská špína
+
+sedmihradské králoství - splňené sny, ráj
+
+dítě - nevinnost
+
+Sepp Jörgen - čistá lidská duše
+
+dítě a blázen - jediní obyvatelé bez rozumu
+
 #### Literární/obecně kulturní Kontext
 
 · Doba první světové války a následného rozpadu Rakousko-Uherska, který
@@ -161,11 +176,11 @@ sebou přinesl i vznik samostatné Československé republiky (28. 10. 1918)
 
 V próze se v tomto období projevoval expresionismus, který je
 charakterizován únikem od reality ke snění. Tvořili zde autoři jako
-například Klíma či Weiner
+například Klíma či Weiner.
 
 Jedná se o období anarchistických buřičů.
 
-Anarchističtí buřiči
+**Anarchističtí buřiči**
 
   - přelom 19. a 20. století
 
@@ -178,7 +193,7 @@ Anarchističtí buřiči
   - Mezi anarchistické buřiče také patří: Stanislav Kostka Neumann,
     Fráňa Šrámek, František Kellner, Petr Bezruč, Karel Toman
 
-Další autoři:
+**Další autoři:**
 
   - **USA**
     
