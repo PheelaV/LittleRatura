@@ -3,7 +3,7 @@ title: Den Trifidů
 layout: post
 categories: [SV-20-21]
 tags: [John Wyndham]
-pageDownload: /docs/den-trifidu-john-wyndham.docx
+pageDownload: /docs/processed/den-trifidu-john-wyndham.docx
 description: Den trifidů | čtenářský deník
 ---
 
