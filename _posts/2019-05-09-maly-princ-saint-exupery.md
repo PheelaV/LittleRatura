@@ -104,7 +104,7 @@ Vypravěčem je pilot, reprezentuje autora.
   - Reprezentují spěch a honbu za náhražkami – pro malého prince
     nesmyslné, zbytečné, bezcenné.
 
-#### Vyprávěcí ZPŮSOBY
+#### Vyprávěcí způsoby
 
 **Často přímá řeč**
 
@@ -132,7 +132,7 @@ Nebo když přemýšlí o své květině.
 
 ### III. část
 
-#### JAZYKOVÉ PROSTŘEDKY
+#### Jazykové Prostředky
 
 **Spisovný jazyk**
 
@@ -158,20 +158,18 @@ Nebo když přemýšlí o své květině.
 
 #### Kontext autorovy tvorby
 
-**Antoine de Saint-Exupéry** byl francouzský prozaik 20. století,
+**Antoine de Saint-Exupéry**    
+
+1900 - 1944
+Francouzský prozaik 20. století, 
 publicista, letec na dálkových tratích a válečný pilot. Narodil se v
 Lyonu, pocházel z aristokratické rodiny. Přesné datum úmrtí není známo,
 pravděpodobně byl sestřelen během 2. světové války ve Středomoří. Od
 dětství projevoval literární a výtvarné nadání, také zájem o letectví.
 Nedokončil studium na Akademii výtvarných umění.
 
-Později složil zkoušku z civilního letectví, pracoval u různých
-leteckých společností, létal do Afriky i Ameriky. Přežil 2 havárie.
-
-Na začátku 2. světové války odešel do USA, kde se stal průzkumným
+Později složil zkoušku z civilního letectví, pracoval u různých leteckých společností, létal do Afriky i Ameriky. Přežil 2 havárie. Na začátku 2. světové války odešel do USA, kde se stal průzkumným
 letcem. Z letu nad Korsikou se nevrátil.
-
-Spisovatelské činnosti se věnoval od 20. let.
 
 Mezi jeho díla patří: 
 - **Kurýr na jih**
@@ -196,13 +194,14 @@ kontinentu probíhá vlna revolucí, rozšiřování fašismu, souboj demokracie
 a totalitních režimů, světová hospodářská krize, mnoho lidí přichází o
 práci.
 
-**Autor spadá do tradičního proudu francouzského realismu**. 1. světová
-válka se výrazným způsobem odrazila v tvorbě světových autorů. Převažují
+**Autor spadá do tradičního proudu francouzského realismu**. 
+
+1. světová válka se výrazným způsobem odrazila v tvorbě světových autorů. Převažují
 realistické, často autobiografické prožitky hrůz z válečných bojišť.
 Zachycení psychických proměn hrdinů, vlastenecké prvky, sílící nenávist
 k jakýmkoli projevům války. Autoři podávají reálné, věcné a pravdivé
 zobrazení skutečnosti – jsou objektivní, realitu nijak nezkreslují. V
-dílech typizace = v dílech vystupují určité typy lidí.
+dílech typizace = vystupují určité typy lidí.
 
 Do tohoto proudu spadá dále: Henri Barbusse (FR) - Oheň Romain Rolland
 (FR) - Petr a Lucie, Dobrý člověk ještě žije
@@ -210,7 +209,9 @@ Do tohoto proudu spadá dále: Henri Barbusse (FR) - Oheň Romain Rolland
 Zároveň jsou zde autoři tzv. **ztracené generace** (= generačně blízká
 skupina amerických básníků a prozaiků, kteří začali tvořit ve 20. letech)
 
-**20. století** Myšlení prozaiků a básníků této skupiny bylo ovlivněno
+**20. století** 
+
+Myšlení prozaiků a básníků této skupiny bylo ovlivněno
 zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do
 obyčejného života. Základní téma literárních děl této generace je
 skepse, zklamání, rozpad lidských a sociálních hodnot a hledání

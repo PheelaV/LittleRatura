@@ -38,7 +38,7 @@ Konverzační komedie
 
 #### Postava/y
 
-\- nejsou ani kladné ani záporné
+nejsou ani kladné ani záporné
 
 ##### Hlavní
 

@@ -95,7 +95,7 @@ jedné z postav
   sympatie a tak se s ní rozhodla spojit, i když na první pohled
   nebyla ničím výjimečná. Její zbraní byl prak.
 
-#### Vyporávěcí způsoby
+#### Vyprávěcí způsoby
 
 **Vypravování** (=Podstatou vypravování je
 převyprávění příběhu,
