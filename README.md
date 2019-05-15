@@ -1,3 +1,5 @@
+ITS ALIVE! [here](https://littleratura.cz/)
+
 # Posting new books
 
 1. Use MD posting [template](https://github.com/Feelav/LittleRatura/blob/master/docs/templates/md.md) or use DOCX posting [template](https://github.com/Feelav/LittleRatura/blob/docs/templates/word.docx) and either contact the [administrator](mailto:koudas1009@gmail.com) or convert it to MD by your self using the ps1 script in docs
