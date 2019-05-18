@@ -9,7 +9,7 @@ Get-ChildItem $queueFolder | ForEach-Object {
     $frontMatter = @();
 
     if ($_.Extension -eq '.yml') {
-        continue
+        return
     }
 
     $rawName = $_.Name.Trim('.docx');

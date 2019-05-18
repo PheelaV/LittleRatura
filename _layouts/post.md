@@ -32,7 +32,7 @@
                 {% endif %}
             </div>
             {% if page.wip %}
-                <a href="" class="wip">Work In Progress</a>
+                <a href="/wip" rel="nofollow class="wip">Work In Progress</a>
             {% endif%}
             {{ content }}
 
