@@ -23,7 +23,7 @@
                 <a href="#"
                     class="btn btn-dark"
                     onclick="window.print();return false;"
-                    rel="nofollow noopener">🖨️ <span class="post-nav-text">vytisknout</span> </a>
+                    rel="nofollow noopener">🖨️ <span class="post-nav-text unprintable">vytisknout</span> </a>
                 {% if page.next %}
                 <a class="btn btn-dark"
                     href="{{ page.next.url }}">>>> <span class="post-nav-text">{{ page.next.title }}</span></a>
@@ -32,7 +32,7 @@
                 {% endif %}
             </div>
             {% if page.wip %}
-                <a href="/wip" rel="nofollow class="wip">Work In Progress</a>
+                <a href="/wip" rel="nofollow class="wip unprintable">Work In Progress</a>
             {% endif%}
             {{ content }}
 
