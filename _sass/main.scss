@@ -47,7 +47,8 @@ footer {
 @media print {
   header,
   footer,
-  .post-nav {
+  .post-nav,
+  .wip {
     display: none;
   }
 }

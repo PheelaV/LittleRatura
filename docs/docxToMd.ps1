@@ -54,11 +54,12 @@ Get-ChildItem $queueFolder | ForEach-Object {
         $frontMatter = @(
             "---",
             "#see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books",
-            "title: ",
+            "title: null",
             "categories: []",
             "layout: post",
             "tags: []",
-            "description: | čtenářský deník",
+            "description: null | čtenářský deník",
+            "editor: null",
             $("pageDownload: " + $pageDownload),
             "---",
             "")
