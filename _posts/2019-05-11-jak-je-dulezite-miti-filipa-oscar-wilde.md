@@ -6,6 +6,7 @@ layout: post
 tags: [Oscar Wilde]
 pageDownload: /docs/processed/jak-je-dulezite-miti-filipa-oscar-wilde.docx
 description: Jak je důležité míti Filipa | čtenářský deník
+editor: martina_lastura
 ---
 
 # Jak je důležité míti Filipa | Oscar Wilde

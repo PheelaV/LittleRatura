@@ -5,6 +5,7 @@ categories: [SV-20-21]
 tags: [Saint-Eexupéry]
 pageDownload: /docs/processed/maly-princ-saint-exupery.docx
 description: Malý Princ | čtenářský deník
+editor: Pheela
 ---
 
 Malý princ

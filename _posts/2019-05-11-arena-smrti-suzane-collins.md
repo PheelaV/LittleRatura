@@ -6,6 +6,7 @@ layout: post
 tags: [Suzane Collins]
 pageDownload: /docs/processed/arena-smrti-suzane-collins.docx
 description: Aréna smrti | čtenářský deník
+editor: Pheela
 ---
 
 

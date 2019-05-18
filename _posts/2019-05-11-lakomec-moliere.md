@@ -6,6 +6,7 @@ layout: post
 tags: [Moliére]
 pageDownload: /docs/processed/lakomec-moliere.docx
 description: Lakomec | čtenářský deník
+editor: martina_lastura
 ---
 
 # Lakomec | Moliére

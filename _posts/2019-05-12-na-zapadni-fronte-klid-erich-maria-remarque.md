@@ -6,6 +6,7 @@ layout: post
 tags: [Erich Maria Remarque]
 pageDownload: /docs/processed/na-zapadni-fronte-klid-erich-maria-remarque.docx
 description: Na Západní Frontě Klid | čtenářský deník
+editor: Pheela
 ---
 
 # Na Západní Frontě Klid | Erich Maria Remarque

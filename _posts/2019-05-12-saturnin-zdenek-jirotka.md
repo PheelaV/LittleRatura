@@ -6,6 +6,7 @@ layout: post
 tags: [Zdeněk Jirotka]
 pageDownload: /docs/processed/saturnin-zdenek-jirotka.docx
 description: Saturnin | čtenářský deník
+editor: Pheela, martina_lastura
 ---
 
 # Saturnin | Zdeněk Jirotka

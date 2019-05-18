@@ -6,6 +6,7 @@ layout: post
 tags: [Nikolaj Vasilivejič Gogol]
 pageDownload: /docs/processed/revizor-nikolaj-vasilijevic-gogol.docx
 description: Revizor | čtenářský deník
+editor: Pheela
 ---
 
 # Revizor | Nikolaj Vasilivejič Gogol

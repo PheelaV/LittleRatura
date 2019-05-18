@@ -6,6 +6,7 @@ layout: post
 tags: [Oscar Wilde]
 pageDownload: /docs/processed/obraz-doriana-graye-oscar-wilde.docx
 description: Obraz Doriana Graye | čtenářský deník
+editor: Pheela
 ---
 
 # Obraz Doriana Graye | Oscar Wilde

@@ -6,6 +6,7 @@ layout: post
 tags: [Viktor Dyk]
 pageDownload: /docs/processed/krysar-viktor-dyk.docx
 description: Krysař | čtenářský deník
+editor: Pheela
 ---
 # Krysař | Viktor Dyk
 

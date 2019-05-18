@@ -5,6 +5,7 @@ categories: [SV-20-21]
 tags: [John Wyndham]
 pageDownload: /docs/processed/den-trifidu-john-wyndham.docx
 description: Den trifidů | čtenářský deník
+editor: Pheela
 ---
 
 # Den trifidů | John Wyndham

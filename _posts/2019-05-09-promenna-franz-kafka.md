@@ -5,6 +5,7 @@ categories: [CZ-20-21]
 tags: [Franz Kafka]
 pageDownload: /docs/processed/promenna-franz-kafka.docx
 description: Proměna | čtenářský deník
+editor: Pheela
 ---
 
 # Proměna | Franz Kafka

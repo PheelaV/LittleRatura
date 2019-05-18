@@ -6,6 +6,7 @@ layout: post
 tags: [Karel Havlíček Borovský]
 pageDownload: /docs/processed/krest-svateho-vladimira-karel-havlicek-borovsky.docx
 description: Křest svatého Vladimíra | čtenářský deník
+editor: martina_lastura
 ---
 
 # Křest svatého Vladimíra | Karel Havlíček Borovský
