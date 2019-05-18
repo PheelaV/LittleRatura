@@ -1,0 +1,9 @@
+#see https://github.com/Feelav/LittleRatura/blob/master/README.md Posting new books
+title: Romeo a Julie
+categories: [SV-CZ-18]
+layout: post
+tags: [William Shakespeare]
+description: Romeo a Julie | čtenářský deník
+editor: decorus_animus
+wip: true
+pageDownload: /docs/processed/romeo-a-julie-william-shakespeare.docx
