@@ -1,9 +1,4 @@
 <footer class="site-footer unprintable">
-    {% if page.editor %}
-    <div class="site-footer-owner">
-        Editor: {{ page.editor }}
-    </div>
-    {% endif %}
     {% if site.github.is_project_page %}
     <div class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is
         maintained by <a href="{{ site.github.owner_url }}">
@@ -11,5 +6,10 @@
                 alt="{{ site.github.owner_url }}"
                 width="64px"
                 height="64px"></a></div>
+    {% endif %}
+    {% if page.editor %}
+    <div class="site-footer-owner">
+        Editor: {{ page.editor }}
+    </div>
     {% endif %}
 </footer>

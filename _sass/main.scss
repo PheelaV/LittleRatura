@@ -33,6 +33,7 @@
 footer {
   display: flex;
   align-items: center;
+  flex-flow: column;
 }
 
 @media all and (max-width: 675px) {
