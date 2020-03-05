@@ -17,11 +17,9 @@ Na [GitHub](https://github.com/Feelav/LittleRatura)u je podrobný **návod**.
 Tou nejsnadnější možností je si stáhnout [wordovskou šablonu](https://github.com/Feelav/LittleRatura/blob/master/docs/templates/word.docx), pečlivě ji vyplnit a odeslat
 [administrátorovi](mailto:kouads1009@gmail.com).
 
-##### prosím o dodržení formátování podle návodu
+##### Prosím o dodržení formátování podle návodu.
 
-Všechny zveřejněné zpracování jsou k dispozici i v půdovním formátu docx a to [zde](https://github.com/Feelav/LittleRatura/tree/master/docs/processed), můžete se nechat inspirovat.
+Všechny zveřejněné zpracování jsou k dispozici i v půdovním formátu docx a to [zde](https://github.com/Feelav/LittleRatura/tree/master/docs/processed), můžeš se nechat inspirovat.
 
 V návodu najdeš mimo jiné i pravidla pro vyplňování společně s dalšími možnostmi jak přispět. Díky!
 
-Nebo mi můžeš koupit kafe:
-{% include buy-me-a-cofee.html %}
