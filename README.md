@@ -1,5 +1,7 @@
 ITS ALIVE! [here](https://littleratura.cz/)
 
+Progressive web app with static pages generated out of .docx files. Was made in an attempt to use [Homo Ludens](https://en.wikipedia.org/wiki/Homo_Ludens) as a way to prepare for my high school graduation.
+
 # Posting new books
 
 1. Use MD posting [template](https://github.com/Feelav/LittleRatura/blob/master/docs/templates/md.md) or use DOCX posting [template](https://github.com/Feelav/LittleRatura/blob/docs/templates/word.docx) and either contact the [administrator](mailto:koudas1009@gmail.com) or convert it to MD by yourself using the ps1 script in docs
